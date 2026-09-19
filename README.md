@@ -6,12 +6,14 @@ Des fichiers image, un index `images.yaml`, rien d'autre. Pas de service, pas de
 ![Boîte de réception Cortex](img:jamespot/cortex-inbox-liste){.right}
 ```
 
-Côté JMD, le `brand.yaml` déclare ce repo une fois pour toutes, servi par le CDN jsDelivr à partir de GitHub :
+Côté JMD, le `brand.yaml` déclare ce repo une fois pour toutes, servi par GitHub Pages (CDN, 1 Go) :
 
 ```yaml
 images:
-  jamespot: https://cdn.jsdelivr.net/gh/Jamespot/jmd-images@main/
+  jamespot: https://jamespot.github.io/jmd-images/
 ```
+
+Pas jsDelivr : il refuse la racine d'un dépôt de plus de 50 Mo, et une bibliothèque de photos dépasse ça vite.
 
 Le résolveur `img:` côté JMD est le chantier suivant (voir le plan de vol de JMD). Ce repo n'attend pas : il se remplit dès maintenant, l'index est le contrat.
 
