@@ -1,0 +1,5 @@
+# la zone de dépôt n'est jamais commitée : les fichiers en sortent rangés et renommés
+inbox/*
+!inbox/.gitkeep
+node_modules/
+.DS_Store

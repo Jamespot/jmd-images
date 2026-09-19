@@ -1,0 +1,13 @@
+{
+  "name": "jmd-images",
+  "version": "0.1.0",
+  "private": true,
+  "description": "La bibliothèque d'images Jamespot pour JMD : des fichiers, un index images.yaml, rien d'autre.",
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.6.0"
+  }
+}
