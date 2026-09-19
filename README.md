@@ -50,6 +50,7 @@ Une liste, une entrée par image :
   source: jamespot                      # jamespot | unsplash:<id> | generated | nom de l'auteur
   credit: Photo de … sur Unsplash       # obligatoire quand source est unsplash:…
   added: 2026-09-19
+  origin: https://jamespot.com/blog/…      # optionnel : la page d'où vient l'image, son contexte
   recolor: true                         # SVG seulement, plus tard : repeint avec la palette du brand
 ```
 
@@ -59,12 +60,12 @@ La **légende** est ce qu'on cherche : une phrase en français qui dit ce qu'on 
 
 | Nature | Format | Taille |
 |---|---|---|
-| capture avec du texte | PNG | côté long 2560 px max, viser moins de 800 Ko, au-delà WebP |
-| photo | WebP qualité 85, ou JPEG | côté long 2560 px max, moins de 800 Ko |
+| capture avec du texte | PNG, ou JPEG qualité 90 si le PNG dépasse 800 Ko | côté long 2560 px max, viser moins de 800 Ko |
+| photo | JPEG qualité 80 à 85 | côté long 1920 px, moins de 800 Ko |
 | logo, illustration vectorielle | SVG sans script, sans référence externe, sans bitmap embarqué | |
 | logo, illustration bitmap | PNG avec transparence | côté long 1600 px max |
 
-Dur : 2 Mo par fichier. Une slide JMD fait 1280 × 720 points, une image `.cover` est embarquée en data URI dans le HTML, un deck de dix images ne doit pas peser dix mégaoctets.
+Pas de WebP ni d'AVIF : la bibliothèque sert aussi hors de JMD (PowerPoint, Keynote, un fichier pris à la main), et là seuls JPEG, PNG et SVG passent partout. Dur : 2 Mo par fichier. Une slide JMD fait 1280 × 720 points, une image `.cover` est embarquée en data URI dans le HTML, un deck de dix images ne doit pas peser dix mégaoctets.
 
 ### Les règles qui ne bougent pas
 

@@ -36,13 +36,13 @@ Ce que tu ne peux pas savoir en regardant, tu le demandes en une ligne à la fin
 
 ## 2 · Optimiser le fichier
 
-Mesure d'abord : `sips -g pixelWidth -g pixelHeight -g format inbox/<f>` et `ls -l`. Puis applique la règle, avec les outils de la machine (`sips` est livré avec macOS, `cwebp` est installé) :
+Mesure d'abord : `sips -g pixelWidth -g pixelHeight -g format inbox/<f>` et `ls -l`. Puis applique la règle avec `sips`, livré avec macOS. **Jamais de WebP ni d'AVIF** : la bibliothèque doit s'ouvrir partout, PowerPoint et Keynote compris.
 
 | Nature | Cible | Commande |
 |---|---|---|
 | capture avec du texte | PNG, côté long ≤ 2560 px | `sips -Z 2560 inbox/f.png --out produit/slug.png` |
-| capture PNG > 800 Ko après resize | WebP q 90 | `cwebp -q 90 -metadata none inbox/f.png -o produit/slug.webp` |
-| photo | WebP q 85, côté long ≤ 2560 px | `sips -Z 2560 inbox/f.jpg --out /tmp/f.jpg && cwebp -q 85 -metadata none /tmp/f.jpg -o photos/slug.webp` |
+| capture PNG > 800 Ko après resize | JPEG q 90 | `sips -s format jpeg -s formatOptions 90 -Z 2560 inbox/f.png --out produit/slug.jpg` |
+| photo | JPEG q 80 à 85, côté long ≤ 1920 px | `sips -s format jpeg -s formatOptions 82 -Z 1920 inbox/f.jpg --out photos/slug.jpg` |
 | logo ou illustration bitmap | PNG avec transparence, côté long ≤ 1600 px | `sips -Z 1600 inbox/f.png --out logos/slug.png` |
 | SVG | tel quel, après lecture | vérifie à l'œil : pas de `<script>`, pas de `href="http`, pas de bitmap en `data:` ; sinon PNG |
 
@@ -72,7 +72,7 @@ Ajoute l'entrée à la fin de la liste dans `images.yaml`, dans l'ordre exact du
 npm run check
 ```
 
-Zéro erreur, sinon corrige et relance. Un avertissement de poids se règle en repassant par l'étape 2 avec WebP ou une taille plus petite.
+Zéro erreur, sinon corrige et relance. Un avertissement de poids se règle en repassant par l'étape 2 avec une qualité JPEG plus basse ou une taille plus petite.
 
 ## 5 · Récapituler, commiter, pousser
 

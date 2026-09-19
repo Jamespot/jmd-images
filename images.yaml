@@ -388,7 +388,7 @@
   added: 2026-09-19
 
 - slug: equipe-jamespot-groupe-exterieur
-  file: photos/equipe-jamespot-groupe-exterieur.webp
+  file: photos/equipe-jamespot-groupe-exterieur.jpg
   caption: "L'équipe Jamespot au complet, bras levés, en t-shirts bleu marine devant des arbres, photo de groupe joyeuse en extérieur"
   tags: [équipe, team, groupe, collaborateurs, culture, convivialité, extérieur, séminaire, humain]
   kind: photo
@@ -463,7 +463,7 @@
   added: 2026-09-19
 
 - slug: semaine-souverainete-numerique-2026-banniere
-  file: illustrations/semaine-souverainete-numerique-2026-banniere.webp
+  file: illustrations/semaine-souverainete-numerique-2026-banniere.jpg
   caption: "Bannière large de la Semaine de la souveraineté numérique, du 5 au 9 octobre 2026, cinq jours pour reprendre le contrôle, ateliers, tables rondes, webinaires, plénière, violet et dégradés pastel"
   tags: [semaine de la souveraineté numérique, ssn, événement, octobre 2026, bannière, souveraineté, webinaires, ateliers, communication]
   kind: illustration
@@ -474,7 +474,7 @@
   added: 2026-09-19
 
 - slug: semaine-souverainete-numerique-2026-visuel
-  file: illustrations/semaine-souverainete-numerique-2026-visuel.webp
+  file: illustrations/semaine-souverainete-numerique-2026-visuel.jpg
   caption: "Visuel carré de la Semaine de la souveraineté numérique organisée par Jamespot, du 5 au 9 octobre 2026, cinq jours pour reprendre le contrôle, blocs violet, sable et bleu"
   tags: [semaine de la souveraineté numérique, ssn, événement, octobre 2026, carré, réseaux sociaux, souveraineté, affiche]
   kind: illustration
@@ -484,7 +484,7 @@
   added: 2026-09-19
 
 - slug: semaine-souverainete-numerique-2026-je-participe
-  file: illustrations/semaine-souverainete-numerique-2026-je-participe.webp
+  file: illustrations/semaine-souverainete-numerique-2026-je-participe.jpg
   caption: "Visuel carré Je participe à la Semaine de la souveraineté numérique, du 5 au 9 octobre 2026, à partager par les participants sur LinkedIn, violet et blocs pastel"
   tags: [semaine de la souveraineté numérique, ssn, je participe, linkedin, réseaux sociaux, événement, octobre 2026, participant]
   kind: illustration
@@ -494,7 +494,7 @@
   added: 2026-09-19
 
 - slug: semaine-souverainete-numerique-2026-je-participe-2
-  file: illustrations/semaine-souverainete-numerique-2026-je-participe-2.webp
+  file: illustrations/semaine-souverainete-numerique-2026-je-participe-2.jpg
   caption: "Seconde version du visuel Je participe à la Semaine de la souveraineté numérique, ateliers, tables rondes, talk show, webinaires et plénière, bandeau violet à droite"
   tags: [semaine de la souveraineté numérique, ssn, je participe, linkedin, réseaux sociaux, événement, octobre 2026, programme]
   kind: illustration
@@ -861,4 +861,2560 @@
   fit: [inline]
   status: approved
   source: jamespot
+  added: 2026-09-19
+
+- slug: semaine-souverainete-numerique-cover-intervenants
+  file: illustrations/semaine-souverainete-numerique-cover-intervenants.jpg
+  caption: "Bannière de la Semaine de la souveraineté numérique, 5 jours pour reprendre le contrôle, plus de 30 intervenants, du 5 au 9 octobre, violet et pastel. Illustre l'article « La semaine de la souveraineté numérique : le rendez-vous des DSI et décideurs IT » (Actualités, 2026) sur le blog Jamespot"
+  tags: [semaine de la souveraineté numérique, ssn, événement, octobre 2026, intervenants, dsi, décideurs it, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/la-semaine-de-la-souverainete-numerique-le-rendez-vous-des-dsi-et-decideurs-it/
+  added: 2026-09-19
+
+- slug: logo-jamespot-plus-alinto-violet
+  file: illustrations/logo-jamespot-plus-alinto-violet.jpg
+  caption: "Icône Jamespot suivie de + Alinto en blanc sur un dégradé violet. Illustre l'article « Jamespot rachète Alinto et intègre le mail à son offre » (Actualités, 2026) sur le blog Jamespot"
+  tags: [alinto, rachat, acquisition, mail, messagerie, annonce, logo, jamespot, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/jamespot-rachete-alinto-et-integre-le-mail-a-son-offre/
+  added: 2026-09-19
+
+- slug: smartphone-icone-google-drive
+  file: photos/smartphone-icone-google-drive.jpg
+  caption: "Smartphone affichant l'icône Google Drive, posé sur une table en bois. Illustre l'article « Alternative à Google Drive : pourquoi choisir Jamespot ? » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [google drive, alternative, stockage, documents, concurrent, smartphone, marque tierce, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/alternative-google-drive/
+  added: 2026-09-19
+
+- slug: smartphone-icone-outlook
+  file: photos/smartphone-icone-outlook.jpg
+  caption: "Smartphone affichant l'icône Outlook, posé sur une table en bois. Illustre l'article « Alternative Outlook : quelle messagerie souveraine choisir ? » (Uncategorized, 2026) sur le blog Jamespot"
+  tags: [outlook, messagerie, alternative, email, souverain, concurrent, marque tierce, smartphone, uncategorized, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/uncategorized/alternative-outlook/
+  added: 2026-09-19
+
+- slug: atelier-post-it-veste-carreaux-jaune
+  file: photos/atelier-post-it-veste-carreaux-jaune.jpg
+  caption: "Atelier post-it, homme en veste à carreaux jaune pointant un écran, collègues autour. Illustre l'article « Extranet : définition, enjeux et mise en place » (Intranet d'entreprise, 2026) sur le blog Jamespot"
+  tags: [extranet, atelier, post-it, design thinking, mise en place, équipe, jaune, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/extranet-guide/
+  added: 2026-09-19
+
+- slug: main-nuage-papier-ordinateur-cables
+  file: photos/main-nuage-papier-ordinateur-cables.jpg
+  caption: "Main tenant un nuage en papier au-dessus d'un ordinateur portable et de câbles. Illustre l'article « Cloud souverain français : comprendre ses enjeux pour votre organisation » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [cloud, souverain, nuage, papier, hébergement, infrastructure, français, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/cloud-souverain-enjeux/
+  added: 2026-09-19
+
+- slug: intranet-jamespot-bienvenue-francoise
+  file: produit/intranet-jamespot-bienvenue-francoise.jpg
+  caption: "Capture de l'intranet Jamespot Bienvenue Françoise avec actualités et bannière Faire réussir le collectif. Illustre l'article « 10 exemples de pages et usages d’intranet pour votre entreprise » (Intranet d'entreprise, 2026) sur le blog Jamespot"
+  tags: [intranet, "page d'accueil", exemples, produit, capture, personnalisation, jamespot, usages, intranet d entreprise, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/quelles-pages-intranet-creer/
+  added: 2026-09-19
+
+- slug: deux-collegues-ordinateur-homme-crayon
+  file: photos/deux-collegues-ordinateur-homme-crayon.jpg
+  caption: "Deux collègues devant un ordinateur portable, homme debout crayon en main. Illustre l'article « Quels sont les 10 meilleurs outils de gestion de projet ? » (Travail collaboratif, 2026) sur le blog Jamespot"
+  tags: [gestion de projet, outils, duo, explication, bureau, crayon, entraide, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/top-10-outils-gestion-projet/
+  added: 2026-09-19
+
+- slug: homme-costume-ordinateur-penombre
+  file: photos/homme-costume-ordinateur-penombre.jpg
+  caption: "Homme en costume tapant sur un ordinateur portable dans la pénombre, mains seules visibles. Illustre l'article « Les ravages du Shadow IA » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [shadow it, shadow ia, pénombre, secret, risque, sécurité, usage caché, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/shadow-ia-entreprise/
+  added: 2026-09-19
+
+- slug: medecin-fatiguee-ordinateur
+  file: photos/medecin-fatiguee-ordinateur.jpg
+  caption: "Médecin femme fatiguée, main sur le front, devant un ordinateur, stéthoscope autour du cou. Illustre l'article « Réduire la surcharge informationnelle des équipes soignantes : le rôle des outils collaboratifs » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [santé, médecin, fatigue, surcharge informationnelle, hôpital, stress, burn-out, soignants, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/surcharge-informationnelle-hopital-outils-collaboratifs/
+  added: 2026-09-19
+
+- slug: infirmiere-telephone-couloir-hopital
+  file: photos/infirmiere-telephone-couloir-hopital.jpg
+  caption: "Infirmière en tenue bleue et masque consultant son smartphone dans un couloir d'hôpital. Illustre l'article « Comment atteindre les soignants de terrain ? » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [hôpital, santé, infirmière, mobile, smartphone, terrain, soignants, communication mobile, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/comment-atteindre-les-soignants-de-terrain/
+  added: 2026-09-19
+
+- slug: nicolas-jacquey-ia-entretien-parcours
+  file: illustrations/nicolas-jacquey-ia-entretien-parcours.jpg
+  caption: "Nicolas Jacquey en pull vert à côté d'icônes IA, bandeau L'IA au service de l'Entretien de Parcours Professionnel, réforme 2026. Illustre l'article « L’IA au service de l’Entretien de Parcours Professionnel : réussir la réforme 2026 sans perdre le facteur humain » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [nicolas jacquey, tribune, ia, rh, entretien professionnel, réforme 2026, facteur humain, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-entretien-parcours-professionnel-reforme-2026/
+  added: 2026-09-19
+
+- slug: pascal-baratoux-label-nfg-preuve
+  file: illustrations/pascal-baratoux-label-nfg-preuve.jpg
+  caption: "Pascal Baratoux à côté du label Numérique France Garanti, bandeau La souveraineté numérique entre dans l'ère de la preuve. Illustre l'article « Numérique France Garanti : la souveraineté numérique dans l’ère de la preuve » (Actualités, 2026) sur le blog Jamespot"
+  tags: [pascal baratoux, tribune, numérique france garanti, label, souveraineté, preuve, certification, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/certification-numerique-france-garanti-souverainete/
+  added: 2026-09-19
+
+- slug: safebrain-reponse-appels-offres
+  file: produit/safebrain-reponse-appels-offres.jpg
+  caption: "Interface SafeBrain : un assistant IA de réponse à appels d'offres, menu latéral vert et zone de saisie. Illustre l'article « SafeBrain : pilotez l’IA dans votre organisation, sans compromettre vos données » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [safebrain, ia, "appels d'offres", produit, capture, assistant, pilotage, interface, ia tendances digitales, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/safebrain-plateforme-ia-souveraine-agents-metiers/
+  added: 2026-09-19
+
+- slug: facade-mairie-pierre-ciel-bleu
+  file: photos/facade-mairie-pierre-ciel-bleu.jpg
+  caption: "Façade d'une mairie française en pierre avec horloge et fronton, ciel bleu. Illustre l'article « Digitalisation des mairies : comment moderniser vos services publics sans exploser votre budget » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [mairie, collectivité, commune, secteur public, bâtiment, digitalisation, territoire, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/digitalisation-des-mairies/
+  added: 2026-09-19
+
+- slug: deux-soignants-couloir-masques
+  file: photos/deux-soignants-couloir-masques.jpg
+  caption: "Deux soignants en blouse bleue et masque discutent en marchant dans un couloir d'hôpital. Illustre l'article « Les outils classiques ne suffisent plus pour (bien) communiquer à l’hôpital » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [hôpital, santé, soignants, couloir, infirmiers, communication, terrain, établissement de santé, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/communication-interne-hopital-defis-outils-classiques/
+  added: 2026-09-19
+
+- slug: pascal-baratoux-tribune-open-source
+  file: illustrations/pascal-baratoux-tribune-open-source.jpg
+  caption: "Pascal Baratoux à côté de cadenas violets, bandeau Tribune Open source vs Logiciels propriétaires, fond violet. Illustre l'article « [Tribune] Open source VS logiciels propriétaires : le faux débat qui met votre souveraineté numérique en danger (Par Pascal Baratoux) » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [pascal baratoux, tribune, open source, logiciels propriétaires, sécurité, rssi, opinion, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/open-source-vs-logiciels-proprietaires-guide-dsi/
+  added: 2026-09-19
+
+- slug: cadenas-code-clavier
+  file: photos/cadenas-code-clavier.jpg
+  caption: "Cadenas à combinaison posé sur un clavier d'ordinateur blanc, gros plan. Illustre l'article « Protéger sa mairie : décryptage des labels de confiance numérique » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [sécurité, cadenas, clavier, labels, confiance, mairie, protection, mot de passe, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/logiciel-collaboratif-mairie-iso27001-hds-secnumcloud/
+  added: 2026-09-19
+
+- slug: drapeau-europeen-flotte-facade
+  file: photos/drapeau-europeen-flotte-facade.jpg
+  caption: "Drapeau de l'Union européenne flottant devant une façade en pierre. Illustre l'article « Le défi des élus : l’IA territoriale doit être souveraine » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [europe, drapeau, élus, collectivité, ia, souveraineté, territoire, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-souveraine-collectivites-locales-enjeux/
+  added: 2026-09-19
+
+- slug: open-agora-publication-competences
+  file: produit/open-agora-publication-competences.jpg
+  caption: "Interface Jamespot Open Agora : une publication sur le développement des compétences, avatars et membres du réseau. Illustre l'article « Open Agora, déployez un réseau social souverain pour fédérer vos équipes » (Fonctionnalités Jamespot, 2026) sur le blog Jamespot"
+  tags: [open agora, réseau social, souverain, produit, capture, publication, communauté, compétences, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/open-agora-deployez-un-reseau-social-souverain-pour-federer-vos-equipes/
+  added: 2026-09-19
+
+- slug: tablette-icones-microsoft-365
+  file: photos/tablette-icones-microsoft-365.jpg
+  caption: "Tablette affichant les icônes des applications Microsoft 365, Teams, Outlook, Word, Excel. Illustre l'article « Jamespot, la meilleure alternative souveraine à Microsoft Teams » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [microsoft 365, microsoft, applications, tablette, alternative, concurrent, marque tierce, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/alternative-teams/
+  added: 2026-09-19
+
+- slug: navigateur-site-slack-lampe
+  file: photos/navigateur-site-slack-lampe.jpg
+  caption: "Navigateur Safari ouvert sur la page d'accueil de Slack, lampe à filament à gauche. Illustre l'article « Jamespot vs Slack : quelle solution choisir en 2026 ? » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [slack, concurrent, comparatif, navigateur, messagerie, marque tierce, alternative, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/alternative-slack/
+  added: 2026-09-19
+
+- slug: teamwork-tableau-de-bord-bonjour
+  file: produit/teamwork-tableau-de-bord-bonjour.jpg
+  caption: "Écran de Jamespot TeamWork sur fond violet, tableau de bord Bonjour Matthieu avec publications, groupes et calendrier. Illustre l'article « TeamWork : votre alternative à Microsoft 365 » (Fonctionnalités Jamespot, 2026) sur le blog Jamespot"
+  tags: [teamwork, tableau de bord, produit, capture, alternative microsoft 365, accueil, violet, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/teamwork-suite-collaborative-souveraine-alternative-microsoft-365/
+  added: 2026-09-19
+
+- slug: mockup-multi-ecrans-intranet-jamespot
+  file: illustrations/mockup-multi-ecrans-intranet-jamespot.jpg
+  caption: "Composition de plusieurs écrans, ordinateur portable et tablettes, affichant des pages d'intranet Jamespot. Illustre l'article « Fast Intranet : déployez votre intranet no code en quelques semaines, sans projet IT » (Fonctionnalités Jamespot, 2026) sur le blog Jamespot"
+  tags: [fast intranet, intranet, no-code, mockup, maquette, pages, multi-écrans, produit, fonctionnalites jamespot, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/fast-intranet-deployer-intranet-sans-competence-technique/
+  added: 2026-09-19
+
+- slug: mains-ordinateur-portable-windows-bleu
+  file: photos/mains-ordinateur-portable-windows-bleu.jpg
+  caption: "Mains tapant sur un ordinateur portable au fond d'écran Windows 11 bleu, près d'une fenêtre. Illustre l'article « Jamespot vs Microsoft Viva : le comparatif » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [microsoft, viva, windows, comparatif, ordinateur, marque tierce, alternative, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/jamespot-vs-microsoft-viva/
+  added: 2026-09-19
+
+- slug: imac-google-micro-bureau-bois
+  file: photos/imac-google-micro-bureau-bois.jpg
+  caption: "iMac affichant la page Google sur un bureau en bois avec un micro et une plante. Illustre l'article « Alternative Google Workspace : quelle solution choisir ? » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [google, google workspace, alternative, concurrent, bureau, imac, marque tierce, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/jamespot-vs-google-workspace/
+  added: 2026-09-19
+
+- slug: homme-fauteuil-roulant-bureau-tablette
+  file: photos/homme-fauteuil-roulant-bureau-tablette.jpg
+  caption: "Homme en fauteuil roulant travaillant à un bureau avec ordinateur portable et tablette, vue en plongée. Illustre l'article « Accessibilité numérique : l’engagement de Jamespot pour le secteur public » (Actualités, 2026) sur le blog Jamespot"
+  tags: [accessibilité, handicap, inclusion, fauteuil roulant, télétravail, bureau, diversité, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/accessibilite-numerique-rgaa-solution-collaborative-secteur-public/
+  added: 2026-09-19
+
+- slug: duo-perplexe-ordinateur-graphiques
+  file: photos/duo-perplexe-ordinateur-graphiques.jpg
+  caption: "Homme et femme perplexes devant un ordinateur portable, grand écran de graphiques en arrière-plan. Illustre l'article « IA générative : quand vos équipes exposent vos données sans le savoir » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [ia générative, doute, analyse, graphiques, duo, bureau, questionnement, données, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-generative-risque-donnees-equipes/
+  added: 2026-09-19
+
+- slug: duo-sourit-tablette-cafe
+  file: photos/duo-sourit-tablette-cafe.jpg
+  caption: "Homme et femme souriants regardant une tablette, café en main. Illustre l'article « Plateforme collaborative d’entreprise : notre guide complet » (Travail collaboratif, 2026) sur le blog Jamespot"
+  tags: [plateforme collaborative, guide, tablette, duo, sourire, café, consultation, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/plateforme-collaborative-guide-complet/
+  added: 2026-09-19
+
+- slug: drapeaux-europeens-berlaymont
+  file: photos/drapeaux-europeens-berlaymont.jpg
+  caption: "Drapeaux de l'Union européenne flottant devant le bâtiment Berlaymont de la Commission européenne à Bruxelles. Illustre l'article « Directive NIS2 : Tout comprendre pour préparer votre mise en conformité » (Actualités, 2026) sur le blog Jamespot"
+  tags: [europe, union européenne, drapeaux, commission, bruxelles, réglementation, nis2, directive, conformité, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/directive-nis2-conformite-obligations-sanctions/
+  added: 2026-09-19
+
+- slug: mot-data-pixels-vitre
+  file: photos/mot-data-pixels-vitre.jpg
+  caption: "Le mot DATA en lettres pixelisées sur une vitre avec reflets d'immeuble. Illustre l'article « Les enjeux de la souveraineté des données » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [data, données, souveraineté, typographie, vitre, numérique, reflet, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/les-enjeux-de-la-souverainete-des-donnees/
+  added: 2026-09-19
+
+- slug: equipe-quatre-ordinateur-bureau-vitre
+  file: photos/equipe-quatre-ordinateur-bureau-vitre.jpg
+  caption: "Quatre collègues réunis autour d'un ordinateur portable dans un bureau vitré, femme en veste orange. Illustre l'article « Quitter Microsoft 365 : mythe ou réalité ? » (Actualités, 2026) sur le blog Jamespot"
+  tags: [équipe, collaboration, ordinateur, microsoft 365, alternative, migration, bureau, réunion informelle, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/quitter-microsoft-365-souverainete-numerique/
+  added: 2026-09-19
+
+- slug: cadenas-bleu-numerique-tablette
+  file: photos/cadenas-bleu-numerique-tablette.jpg
+  caption: "Cadenas bleu lumineux en fils numériques posé sur une tablette tenue à la main, fond sombre. Illustre l'article « Cybersécurité : les 5 tendances de 2026 pour piloter votre résilience » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [cybersécurité, sécurité, cadenas, protection, données, tendances, numérique, bleu, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/cybersecurite-2026-tendances-resilience/
+  added: 2026-09-19
+
+- slug: terre-espace-nuit-villes
+  file: photos/terre-espace-nuit-villes.jpg
+  caption: "La Terre vue de l'espace la nuit, villes illuminées, courbure de la planète. Illustre l'article « Qu’est-ce que l’indice de résilience numérique (IRN) ? » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [terre, espace, nuit, monde, résilience, numérique, global, planète, réseau, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.6]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/indice-resilience-numerique/
+  added: 2026-09-19
+
+- slug: poignee-main-robot-humain-blanc
+  file: photos/poignee-main-robot-humain-blanc.jpg
+  caption: "Poignée de main entre une main robotique blanche et une main humaine en costume, fond clair. Illustre l'article « L’IA en entreprise : la fin de la phase d’expérimentation » (IA & Tendances digitales, 2026) sur le blog Jamespot"
+  tags: [ia, intelligence artificielle, robot, poignée de main, partenariat, humain, confiance, entreprise, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-entreprise-integration/
+  added: 2026-09-19
+
+- slug: homme-costume-billets-volent-desespoir
+  file: photos/homme-costume-billets-volent-desespoir.jpg
+  caption: "Homme en costume se tenant la tête, billets de dollars volant autour de lui, fond gris. Illustre l'article « Pourquoi vos outils de communication interne coûtent plus chers que vous ne le pensez et comment y remédier » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [coût, argent, gaspillage, budget, outils, stress, dollars, humour, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/outils-communication-interne-cout/
+  added: 2026-09-19
+
+- slug: interfaces-sharepoint-jamespot-comparaison
+  file: produit/interfaces-sharepoint-jamespot-comparaison.jpg
+  caption: "Comparaison SharePoint et Jamespot sur un ordinateur portable, fond violet. Illustre l'article « Alternative Sharepoint : quelle solution collaborative choisir ? » (Sécurité & Souveraineté, 2026) sur le blog Jamespot"
+  tags: [sharepoint, microsoft, comparaison, alternative, produit, capture, intranet, jamespot, securite souverainete, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/alternative-sharepoint/
+  added: 2026-09-19
+
+- slug: main-cubes-bois-pictogrammes-roi
+  file: photos/main-cubes-bois-pictogrammes-roi.jpg
+  caption: "Main en costume empilant des cubes en bois gravés de pictogrammes de graphique, cible et loupe. Illustre l'article « ROI de la communication interne : comment mesurer et démontrer son impact ? » (Communication Interne, 2026) sur le blog Jamespot"
+  tags: [roi, mesure, indicateurs, stratégie, cubes, objectifs, performance, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/roi-communication-interne-demontrer-impact/
+  added: 2026-09-19
+
+- slug: deux-femmes-notes-tableau-matin
+  file: photos/deux-femmes-notes-tableau-matin.jpg
+  caption: "Deux femmes collant des notes sur un tableau dans la lumière du matin. Illustre l'article « 5 idées pour engager ses collaborateurs à la rentrée » (Culture d'entreprise & collaborateurs, 2026) sur le blog Jamespot"
+  tags: [rentrée, engagement, notes, tableau, planification, idées, atelier, matin, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/engagement-collaborateur/
+  added: 2026-09-19
+
+- slug: equipe-grande-table-bois-plongee
+  file: photos/equipe-grande-table-bois-plongee.jpg
+  caption: "Équipe de six personnes travaillant sur ordinateurs autour d'une grande table en bois, vue en plongée, plantes. Illustre l'article « Les 5 tendances de la communication interne pour 2026 » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [équipe, réunion, open space, collaboration, communication interne, tendances, plongée, bureau, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/tendances-communication-interne-2026/
+  added: 2026-09-19
+
+- slug: main-ecrit-talents-vitre-marqueur
+  file: photos/main-ecrit-talents-vitre-marqueur.jpg
+  caption: "Main écrivant le mot Talents au marqueur orange sur une vitre, schéma de mots reliés. Illustre l'article « Animation interne en entreprise : comment animer ses équipes ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [talents, animation interne, brainstorming, vitre, schéma, rh, engagement, idées, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/ateliers-animation-communication-interne/
+  added: 2026-09-19
+
+- slug: femme-mur-post-it-ordinateur
+  file: photos/femme-mur-post-it-ordinateur.jpg
+  caption: "Femme aux cheveux bouclés et lunettes devant un mur de post-it colorés, ordinateur portable ouvert, bureau lumineux. Illustre l'article « Intranet vs extranet : quelles différences et comment choisir ? » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [post-it, organisation, intranet, extranet, bureau, réflexion, planification, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-extranet-quelles-sont-les-differences/
+  added: 2026-09-19
+
+- slug: temoignage-ville-de-pantin-deux-femmes-ecran
+  file: illustrations/temoignage-ville-de-pantin-deux-femmes-ecran.jpg
+  caption: "Deux femmes regardant un écran d'ordinateur dans un bureau aux murs d'affiches, cadre violet, bandeau Témoignage client et logo Ville de Pantin. Illustre l'article « Ville de Pantin : un intranet collaboratif au service du bien commun » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [témoignage client, ville de pantin, pantin, collectivité, mairie, intranet, bien commun, agents, intranet d entreprise, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/rex-ville-pantin-intranet-jamespot/
+  added: 2026-09-19
+
+- slug: silhouette-bras-leves-ville-nuit-globe
+  file: photos/silhouette-bras-leves-ville-nuit-globe.jpg
+  caption: "Silhouette bras levés au sommet d'une colline devant une ville illuminée la nuit, globe connecté en surimpression. Illustre l'article « Pourquoi la souveraineté numérique est l’avenir de votre organisation » (Sécurité & Souveraineté, 2025) sur le blog Jamespot"
+  tags: [souveraineté, avenir, victoire, ville, nuit, globe, réseau, ambition, vision, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.3, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-outils-souverains-entreprise/
+  added: 2026-09-19
+
+- slug: alain-garnier-tribune-ia-mains
+  file: illustrations/alain-garnier-tribune-ia-mains.jpg
+  caption: "Alain Garnier bras croisés à côté d'une main humaine et d'une main robotique qui se touchent, bandeau Tribune Alain Garnier CEO de Jamespot, fond violet. Illustre l'article « L’IA ne remplace pas les processus mais les augmente » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [alain garnier, tribune, ia, intelligence artificielle, processus, augmentation, ceo, opinion, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-generative-augmente-processus-metiers-alain-garnier-jamespot/
+  added: 2026-09-19
+
+- slug: batiment-ministere-forme-bleue
+  file: photos/batiment-ministere-forme-bleue.jpg
+  caption: "Grand bâtiment administratif en pierre sous un ciel nuageux, forme graphique bleu clair en surimpression. Illustre l'article « Quand la DGALN mise sur l’intelligence collective avec Jamespot » (Réseau social d'entreprise, 2025) sur le blog Jamespot"
+  tags: [ministère, administration, état, bâtiment, secteur public, dgaln, intelligence collective, témoignage client, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/dgaln-intelligence-collective-jamespot/
+  added: 2026-09-19
+
+- slug: alain-garnier-safebrain-alliance
+  file: illustrations/alain-garnier-safebrain-alliance.jpg
+  caption: "Alain Garnier bras croisés à côté d'un visage d'IA en circuits imprimés et du logo SafeBrain, composition violette. Illustre l'article « SafeBrain rejoint Jamespot : une alliance au service d’une IA souveraine et collaborative » (Actualités, 2025) sur le blog Jamespot"
+  tags: [alain garnier, safebrain, ia, intelligence artificielle, alliance, partenariat, annonce, ceo, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/safebrain-rejoint-jamespot/
+  added: 2026-09-19
+
+- slug: workplace-game-over-fin-gratuite
+  file: illustrations/workplace-game-over-fin-gratuite.jpg
+  caption: "Visuel Workplace : clap de fin à la gratuité, GAME OVER en style jeu vidéo sur fond bleu nuit. Illustre l'article « Workplace from Facebook : clap de fin pour le modèle gratuit » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [workplace, meta, facebook, game over, fin, gratuité, concurrent, migration, humour, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/workplace-facebook-gratuit/
+  added: 2026-09-19
+
+- slug: ordinateur-visio-mosaique-main
+  file: photos/ordinateur-visio-mosaique-main.jpg
+  caption: "Ordinateur portable affichant une visio en mosaïque de nombreux participants, main de l'utilisateur. Illustre l'article « Garder du lien avec ses collaborateurs en télétravail » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [visio, télétravail, mosaïque, réunion à distance, lien, équipe, participants, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/lien-collaborateurs-teletravail/
+  added: 2026-09-19
+
+- slug: homme-costume-dos-ville-globe-hologramme
+  file: photos/homme-costume-dos-ville-globe-hologramme.jpg
+  caption: "Homme en costume de dos regardant une ville avec un globe holographique bleu. Illustre l'article « 2020-2025 : les 5 thèmes qui ont façonné le numérique » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [2020-2025, thèmes, numérique, vision, globe, ville, rétrospective, bleu, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/2020-2025-les-5-themes-qui-ont-faconne-le-numerique/
+  added: 2026-09-19
+
+- slug: homme-dos-visio-bureau-briques
+  file: photos/homme-dos-visio-bureau-briques.jpg
+  caption: "Homme de dos en visio à son bureau, mur de briques et fenêtres. Illustre l'article « Outil de communication interne : comment choisir en 2026 ? (Guide complet) » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [outil de communication, visio, choix, bureau, briques, télétravail, dos, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/choix-outil-communication-interne/
+  added: 2026-09-19
+
+- slug: nuages-papier-decoupe-relies
+  file: photos/nuages-papier-decoupe-relies.jpg
+  caption: "Nuages en papier découpé reliés par des lignes sur fond de ciel bleu. Illustre l'article « Le Multicloud : la diversité au service de la résilience numérique des organisations » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [multicloud, cloud, nuages, papier, résilience, diversité, infrastructure, bleu, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/multicloud/
+  added: 2026-09-19
+
+- slug: ordinateur-tableau-de-bord-anneau-liste
+  file: produit/ordinateur-tableau-de-bord-anneau-liste.jpg
+  caption: "Ordinateur portable affichant un tableau de bord Jamespot avec un graphique en anneau et une liste, fleurs rouges. Illustre l'article « Les étapes pour développer un support technique efficace » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [tableau de bord, intranet, étapes, déploiement, produit, capture, jamespot, indicateurs, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/support-technique-jamespot/
+  added: 2026-09-19
+
+- slug: circuit-imprime-noir-or-puce
+  file: photos/circuit-imprime-noir-or-puce.jpg
+  caption: "Circuit imprimé stylisé noir et or avec une puce au centre. Illustre l'article « 3 applications Jamespot qui utilisent l’intelligence artificielle » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [ia, circuit, puce, technologie, applications, or, noir, intelligence artificielle, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/jamespot-applications-ia/
+  added: 2026-09-19
+
+- slug: homme-ecran-graphiques-feuille
+  file: photos/homme-ecran-graphiques-feuille.jpg
+  caption: "Homme devant un grand écran de graphiques et cartes, une feuille de statistiques à la main. Illustre l'article « 5 indicateurs pour analyser l’activité de votre plateforme collaborative » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [indicateurs, analyse, statistiques, graphiques, données, activité, tableau de bord, mesure, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/kpi-plateforme-collaborative/
+  added: 2026-09-19
+
+- slug: femme-boucles-sourit-ordinateur-plantes
+  file: photos/femme-boucles-sourit-ordinateur-plantes.jpg
+  caption: "Femme aux cheveux bouclés souriante devant un ordinateur portable, plantes et étagères. Illustre l'article « Comment mettre en place une stratégie de communication interne efficace ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [stratégie de communication, sourire, bureau, plantes, femme, travail, communication, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/strategie-communication-interne/
+  added: 2026-09-19
+
+- slug: ordinateur-smart-page-conference
+  file: produit/ordinateur-smart-page-conference.jpg
+  caption: "Ordinateur portable affichant une smart page Jamespot Development Conference, tasse et montre sur la table. Illustre l'article « 7 étapes clefs pour créer des Smart Pages performantes » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [smart pages, pages, événement, produit, capture, intranet, jamespot, conférence, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/creation-smart-pages/
+  added: 2026-09-19
+
+- slug: equipe-debout-table-vitree-echanges
+  file: photos/equipe-debout-table-vitree-echanges.jpg
+  caption: "Équipe debout autour d'une table de réunion dans un bureau vitré, échanges animés et documents. Illustre l'article « L’importance de la communication interne pour la productivité individuelle et collective » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [communication interne, équipe, réunion, échanges, importance, debout, dynamique, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/productivite-communication-interne/
+  added: 2026-09-19
+
+- slug: main-robot-serre-main-humaine-atelier
+  file: photos/main-robot-serre-main-humaine-atelier.jpg
+  caption: "Main robotique serrant une main humaine dans un atelier industriel. Illustre l'article « [Podcast] IA & Boostrap : même combat ? » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [ia, robot, poignée de main, podcast, industrie, humain, coopération, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/podcast-ia-boostrap-meme-combat/
+  added: 2026-09-19
+
+- slug: femme-lunettes-carnet-ordinateur
+  file: photos/femme-lunettes-carnet-ordinateur.jpg
+  caption: "Femme à lunettes écrivant dans un carnet devant un ordinateur portable, bureau clair. Illustre l'article « Les 5 règles d’or du content marketing pour les réseaux sociaux d’entreprise » (Réseau social d'entreprise, 2025) sur le blog Jamespot"
+  tags: [content marketing, rédaction, écriture, contenu, carnet, concentration, communication, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/content-marketing-r-s-e/
+  added: 2026-09-19
+
+- slug: ecran-tv-mural-salle-reunion-bleue
+  file: produit/ecran-tv-mural-salle-reunion-bleue.jpg
+  caption: "Écran de télévision mural affichant Jamespot dans une salle de réunion aux murs bleus. Illustre l'article « TV Display : diffusez vos communications internes sur les écrans de votre entreprise » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [tv display, affichage dynamique, écran, salle de réunion, communication interne, produit, diffusion, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/tv-display/
+  added: 2026-09-19
+
+- slug: ordinateur-intranet-jamespot-actualites-ville
+  file: produit/ordinateur-intranet-jamespot-actualites-ville.jpg
+  caption: "Ordinateur portable affichant l'intranet Jamespot avec des actualités illustrées de photos de ville, bureau en bois. Illustre l'article « Reprenez le contrôle de votre communication interne avec Fast Intranet » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [intranet, actualités, communication interne, produit, capture, "page d'accueil", jamespot, intranet d entreprise, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/fast-intranet-jamespot/
+  added: 2026-09-19
+
+- slug: ordinateur-visio-homme-sourit-cafe
+  file: produit/ordinateur-visio-homme-sourit-cafe.jpg
+  caption: "Ordinateur portable affichant une visio Jamespot avec un homme souriant, tasse de café tenue devant. Illustre l'article « Gardez le lien qui vous unit à vos collaborateurs avec Caméra café » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [visio, lien, télétravail, café, produit, capture, distance, convivialité, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/camera-cafe-jamespot/
+  added: 2026-09-19
+
+- slug: ordinateur-visio-deux-femmes
+  file: produit/ordinateur-visio-deux-femmes.jpg
+  caption: "Ordinateur portable affichant une visio Jamespot à deux fenêtres avec deux femmes, table en bois. Illustre l'article « Renforcez la collaboration de vos équipes avec la multi-visio Jamespot » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [visio, collaboration, équipe, produit, capture, distance, jamespot, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/annonce-multi-visio-jitsi/
+  added: 2026-09-19
+
+- slug: mains-empilees-esprit-equipe
+  file: photos/mains-empilees-esprit-equipe.jpg
+  caption: "Mains de plusieurs personnes empilées au centre d'un cercle, esprit d'équipe. Illustre l'article « L’engagement client : un levier de croissance durable pour les marques » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [engagement, "esprit d'équipe", mains, cohésion, client, croissance, union, collectif, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/croissance-engagement-client/
+  added: 2026-09-19
+
+- slug: ordinateur-planning-presence-jamespot-plante
+  file: produit/ordinateur-planning-presence-jamespot-plante.jpg
+  caption: "Ordinateur portable affichant le planning de présence Jamespot, plante en pot et lunettes sur le bureau. Illustre l'article « Organisez le planning de présence de vos équipes avec Jamespot ! » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [planning, présence, télétravail, produit, capture, bureau, organisation, jamespot, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/organisation-presences-equipes-jamespot/
+  added: 2026-09-19
+
+- slug: smartphone-icones-applications-jaillissent
+  file: photos/smartphone-icones-applications-jaillissent.jpg
+  caption: "Main tenant un smartphone d'où jaillissent des icônes d'applications colorées. Illustre l'article « 10 applications Jamespot pour booster votre communication interne » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [applications, apps, smartphone, icônes, mobile, fonctionnalités, écosystème, fonctionnalites jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/jamespot-applications-communication-interne/
+  added: 2026-09-19
+
+- slug: high-five-table-reunion-plantes
+  file: photos/high-five-table-reunion-plantes.jpg
+  caption: "Deux collègues se tapent dans la main au-dessus d'une table de réunion, ordinateur et plantes. Illustre l'article « Comment s’organiser efficacement avec ses équipes ? Méthodes et outils collaboratifs » (Management & Gouvernance, 2025) sur le blog Jamespot"
+  tags: [high five, organisation, réussite, équipe, motivation, réunion, célébration, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/organisation-equipes/
+  added: 2026-09-19
+
+- slug: femme-souriante-teletravail-bureau-plantes
+  file: photos/femme-souriante-teletravail-bureau-plantes.jpg
+  caption: "Femme souriante travaillant sur un ordinateur portable à son bureau à domicile, plantes et cactus. Illustre l'article « Les 10 commandements du télétravail » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [télétravail, domicile, sourire, plantes, bien-être, bureau à domicile, commandements, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/commandements-teletravail/
+  added: 2026-09-19
+
+- slug: homme-sourit-ordinateur-bureau-lumineux
+  file: photos/homme-sourit-ordinateur-bureau-lumineux.jpg
+  caption: "Homme souriant travaillant sur un ordinateur portable dans un bureau lumineux, lampe et étagères. Illustre l'article « 3 façons d’optimiser sa communication interne en télétravail » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [optimisation, communication interne, sourire, bureau, productivité, travail, satisfaction, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/communication-interne-teletravail/
+  added: 2026-09-19
+
+- slug: reunion-conviviale-femme-sourit
+  file: photos/reunion-conviviale-femme-sourit.jpg
+  caption: "Réunion d'équipe conviviale autour d'une table, femme souriante au centre, collègues attentifs. Illustre l'article « 6 enquêtes internes à mener auprès de vos collaborateurs » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [réunion, enquête interne, écoute, équipe, sourire, collaboration, feedback, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/enquetes-internes-collaborateurs/
+  added: 2026-09-19
+
+- slug: carnet-gamification-parcours-dessine
+  file: photos/carnet-gamification-parcours-dessine.jpg
+  caption: "Carnet avec le mot Gamification et un parcours dessiné, learning, goal, reward, achievement, lunettes et café. Illustre l'article « Gamification en entreprise : comment booster l’adoption de votre plateforme collaborative ? » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [gamification, jeu, engagement, apprentissage, récompense, carnet, motivation, adoption, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/gamification-plateforme-collaborative/
+  added: 2026-09-19
+
+- slug: equipe-joyeuse-ecran-homme-rit
+  file: photos/equipe-joyeuse-ecran-homme-rit.jpg
+  caption: "Équipe joyeuse regroupée devant un écran d'ordinateur, un homme rit. Illustre l'article « Construire sa Digital Workplace Jamespot : les 5 étapes clés » (Digital Workplace, 2025) sur le blog Jamespot"
+  tags: [digital workplace, joie, équipe, écran, construire, collaboration, succès, rire, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/construire-plateforme-jamespot/
+  added: 2026-09-19
+
+- slug: main-drapeau-europeen-soleil-couchant
+  file: photos/main-drapeau-europeen-soleil-couchant.jpg
+  caption: "Main tenant un petit drapeau européen devant un soleil couchant, immeubles en arrière-plan. Illustre l'article « Pourquoi Jamespot incarne les piliers de la souveraineté numérique européenne du manifeste IMA » (Sécurité & Souveraineté, 2025) sur le blog Jamespot"
+  tags: [europe, drapeau, souveraineté, piliers, soleil, espoir, union européenne, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-jamespot-ima/
+  added: 2026-09-19
+
+- slug: ordinateur-visio-mosaique-mug-ceramique
+  file: photos/ordinateur-visio-mosaique-mug-ceramique.jpg
+  caption: "Ordinateur portable affichant une visio en mosaïque, mug en céramique turquoise au premier plan. Illustre l'article « Pourquoi utiliser un logiciel de planning en entreprise ? » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [planning, visio, mosaïque, mug, réunion, logiciel, télétravail, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/logiciels-de-planning/
+  added: 2026-09-19
+
+- slug: illustration-teletravail-cloud-bleu
+  file: illustrations/illustration-teletravail-cloud-bleu.jpg
+  caption: "Illustration vectorielle bleue de deux télétravailleurs à leur bureau reliés par un nuage cloud et des icônes. Illustre l'article « [Table Ronde] Télétravail : le défi de la collaboration à distance » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [télétravail, cloud, illustration vectorielle, bleu, connexion, distance, table ronde, plat, travail collaboratif, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/teletravail-defi-collaboration-distance/
+  added: 2026-09-19
+
+- slug: mains-ordinateur-flash-info-jamespot
+  file: produit/mains-ordinateur-flash-info-jamespot.jpg
+  caption: "Mains sur un ordinateur portable affichant un flash info Jamespot, fond sombre. Illustre l'article « Obtenez des réponses instantanées avec les Flash Widgets » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [flash, flash info, alerte, réponses instantanées, produit, capture, urgence, jamespot, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/nouveaute-flash-widgets/
+  added: 2026-09-19
+
+- slug: femme-blouse-rose-ordinateur-bureau
+  file: photos/femme-blouse-rose-ordinateur-bureau.jpg
+  caption: "Femme souriante en blouse rose travaillant sur ordinateur portable dans un bureau avec bibliothèque. Illustre l'article « L’évolution des modes de travail : l’importance grandissante des nouveaux outils collaboratifs » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [modes de travail, évolution, bureau, sourire, travail, flexibilité, femme, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/evolution-modes-travail/
+  added: 2026-09-19
+
+- slug: jeunes-filment-smartphone-trepied
+  file: photos/jeunes-filment-smartphone-trepied.jpg
+  caption: "Groupe de jeunes filmant avec un smartphone sur trépied, ambiance créative et décontractée. Illustre l'article « Le fossé entre Digital Natives et chefs d’entreprise par Alain Garnier » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [digital natives, génération z, vidéo, smartphone, créativité, jeunes, réseaux sociaux, fossé générationnel, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/digital-natives-chefs-dentreprise/
+  added: 2026-09-19
+
+- slug: ordinateur-communaute-la-tribu-tour-eiffel
+  file: produit/ordinateur-communaute-la-tribu-tour-eiffel.jpg
+  caption: "Ordinateur portable affichant une communauté Jamespot La Tribu avec la tour Eiffel, plante à droite. Illustre l'article « Faites vivre vos communautés au quotidien avec Animation Grand Réseau » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [communautés, groupes, produit, capture, paris, tour eiffel, animation, jamespot, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/nouveaute-animation-grand-reseau/
+  added: 2026-09-19
+
+- slug: femme-casque-rouge-visio
+  file: photos/femme-casque-rouge-visio.jpg
+  caption: "Femme avec un casque rouge en visio sur ordinateur portable, bureau clair. Illustre l'article « 3 étapes pour organiser un événement en visioconférence avec Jamespot » (Management & Gouvernance, 2025) sur le blog Jamespot"
+  tags: [visio, événement en ligne, casque, webinaire, organisation, distance, rouge, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/organiser-evenement-visioconference/
+  added: 2026-09-19
+
+- slug: femme-ecrans-donnees-salle-sombre
+  file: photos/femme-ecrans-donnees-salle-sombre.jpg
+  caption: "Femme pensive devant des écrans de données dans une salle sombre. Illustre l'article « Comprendre la norme ISO 27001 et ses impacts avec Jamespot » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [iso 27001, norme, sécurité, données, écrans, analyse, conformité, sombre, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/norme-iso-27001-jamespot/
+  added: 2026-09-19
+
+- slug: femme-imac-page-fast-intranet-ville
+  file: produit/femme-imac-page-fast-intranet-ville.jpg
+  caption: "Femme devant un iMac affichant une page Fast Intranet Jamespot avec une photo de ville. Illustre l'article « Comment créer une page Fast Intranet en 7 étapes ? » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [fast intranet, page, création, produit, capture, imac, no-code, jamespot, intranet d entreprise, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.4, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/fast-intranet-creation-pages/
+  added: 2026-09-19
+
+- slug: equipe-ordinateur-rouge-start-up
+  file: photos/equipe-ordinateur-rouge-start-up.jpg
+  caption: "Équipe autour d'un ordinateur portable rouge dans un espace de coworking, ambiance start-up. Illustre l'article « 3 astuces pour vous démarquer et publier des contenus originaux » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [start-up, se démarquer, équipe, coworking, jeune, créativité, différenciation, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/astuces-contenus-originaux/
+  added: 2026-09-19
+
+- slug: equipe-table-plans-homme-explique
+  file: photos/equipe-table-plans-homme-explique.jpg
+  caption: "Équipe autour d'une table avec plans et ordinateur, un homme debout explique. Illustre l'article « Tout comprendre de l’intranet pour entreprise » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [intranet, explication, projet, équipe, plans, réunion, pédagogie, comprendre, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-service/
+  added: 2026-09-19
+
+- slug: hotel-particulier-ministere-formes-bleues
+  file: photos/hotel-particulier-ministere-formes-bleues.jpg
+  caption: "Façade en pierre d'un hôtel particulier ministériel, cour pavée, formes bleu-vert en surimpression. Illustre l'article « Comment la Direction de l’Habitat, de l’Urbanisme et des Paysages a mis en réseau les acteurs territoriaux des missions qu’elle pilote ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [ministère, dhup, habitat, urbanisme, état, administration, témoignage client, bâtiment, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/rex-dhup/
+  added: 2026-09-19
+
+- slug: trois-collegues-ecran-bureau-bois
+  file: photos/trois-collegues-ecran-bureau-bois.jpg
+  caption: "Trois collègues regardant un écran d'ordinateur dans un bureau aux murs de bois. Illustre l'article « Intranet pour PME : pourquoi c’est devenu indispensable pour votre communication interne » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [pme, intranet, équipe, petite entreprise, écran, bois, collaboration, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/pme-intranet/
+  added: 2026-09-19
+
+- slug: techniciens-salle-serveurs-tablette-bleu
+  file: photos/techniciens-salle-serveurs-tablette-bleu.jpg
+  caption: "Deux techniciens dans une salle de serveurs consultent une tablette, superposition bleue. Illustre l'article « La stratégie Cloud au Centre et la non-conformité de Microsoft Office 365 : Explications et solutions » (Sécurité & Souveraineté, 2025) sur le blog Jamespot"
+  tags: [cloud, datacenter, serveurs, infrastructure, hébergement, techniciens, stratégie cloud, it, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/alternatives-office-365/
+  added: 2026-09-19
+
+- slug: reunion-debout-femme-presente-vitre
+  file: photos/reunion-debout-femme-presente-vitre.jpg
+  caption: "Réunion debout dans un bureau vitré, une femme présente un projet à trois collègues. Illustre l'article « Comment présenter votre projet d’intranet à votre patron ? » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [présentation, projet intranet, réunion, pitch, convaincre, équipe, direction, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-patron/
+  added: 2026-09-19
+
+- slug: wedoc-article-randonneurs-dune
+  file: produit/wedoc-article-randonneurs-dune.jpg
+  caption: "Capture WeDoc Jamespot : un article illustré d'une photo de deux randonneurs dans le désert, forme verte. Illustre l'article « WeDoc : un nouveau terrain de jeu pour l’édition collaborative ✍️ » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [wedoc, édition collaborative, article, produit, capture, rédaction, jamespot, document, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/wedoc-edition-collaborative/
+  added: 2026-09-19
+
+- slug: julie-petignat-tribune-culture-entreprise
+  file: illustrations/julie-petignat-tribune-culture-entreprise.jpg
+  caption: "Julie Petignat à côté de mains jointes, bandeau Tribune Julie Petignat Head of Customer Success de Jamespot. Illustre l'article « [Tribune] Intégrez la culture d’entreprise à votre stratégie 2025 grâce au collaboratif par Julie Petignat » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [julie petignat, tribune, "culture d'entreprise", customer success, onboarding, intranet, culture d entreprise collaborateurs, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/culture-strategie/
+  added: 2026-09-19
+
+- slug: developpeur-deux-ecrans-code-violet
+  file: photos/developpeur-deux-ecrans-code-violet.jpg
+  caption: "Développeur devant deux écrans de code dans un bureau, forme violette en surimpression. Illustre l'article « Jamespot et la cybersécurité » (Sécurité & Souveraineté, 2025) sur le blog Jamespot"
+  tags: [cybersécurité, développeur, code, sécurité, écrans, informatique, protection, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/cybersecurite/
+  added: 2026-09-19
+
+- slug: homme-telephone-ordinateur-bureau-chaleureux
+  file: photos/homme-telephone-ordinateur-bureau-chaleureux.jpg
+  caption: "Homme concentré au téléphone devant son ordinateur portable dans un bureau chaleureux. Illustre l'article « Le rôle du manager : quelques astuces pour reprendre le contrôle de son temps et de ses outils » (Management & Gouvernance, 2025) sur le blog Jamespot"
+  tags: [manager, management, téléphone, concentration, reprise, bureau, responsabilité, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/role-manager-distance/
+  added: 2026-09-19
+
+- slug: jeunes-coworking-ordinateurs-jaune
+  file: photos/jeunes-coworking-ordinateurs-jaune.jpg
+  caption: "Groupe de jeunes travaillant sur ordinateurs portables dans un espace de coworking, forme jaune. Illustre l'article « Franchises et réseaux multisites : comment encourager la communication interne au sein des organisations éclatées ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [franchise, réseau, multisites, coworking, jeunes, équipes distribuées, encourager, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/communication-interne-franchises/
+  added: 2026-09-19
+
+- slug: diapazone-visio-quatre-participants
+  file: produit/diapazone-visio-quatre-participants.jpg
+  caption: "Capture Diapazone, la visio Jamespot, mosaïque de quatre participants, forme orange. Illustre l'article « Diapazone : orchestrez vos réunions comme jamais avec Jamespot 🎼 » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [diapazone, visio, réunion, produit, capture, participants, jamespot, orchestrer, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/animation-reunion-diapazone/
+  added: 2026-09-19
+
+- slug: calendrier-avent-digital-sapin
+  file: produit/calendrier-avent-digital-sapin.jpg
+  caption: "Capture Jamespot d'un calendrier de l'Avent digital sur fond de branches de sapin, cases numérotées. Illustre l'article « Comment créer un Calendrier de l’Avent Digital avec Jamespot ! » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: ["calendrier de l'avent", noël, décembre, animation, produit, capture, fêtes, jamespot, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/calendrier-avent-jamespot/
+  added: 2026-09-19
+
+- slug: stand-jamespot-salon-digital-workplace-2025
+  file: photos/stand-jamespot-salon-digital-workplace-2025.jpg
+  caption: "Stand Jamespot au salon Digital Workplace 2025 avec des visiteurs. Illustre l'article « Le salon Digital Workplace 2025 : Tendances et perspectives autour des outils collaboratifs » (Digital Workplace, 2025) sur le blog Jamespot"
+  tags: [salon, digital workplace, "2025", stand, événement, visiteurs, jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/le-salon-digital-workplace-2025-tendances-et-perspectives-autour-des-outils-collaboratifs/
+  added: 2026-09-19
+
+- slug: homme-open-space-soir-violet
+  file: photos/homme-open-space-soir-violet.jpg
+  caption: "Homme travaillant le soir dans un open space sombre, forme violette. Illustre l'article « Qu’est-ce que la messagerie d’équipe ? » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [messagerie, soir, open space, concentration, chat, communication, violet, fonctionnalites jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/messagerie-equipe/
+  added: 2026-09-19
+
+- slug: homme-imac-intranet-geometrique-vert
+  file: produit/homme-imac-intranet-geometrique-vert.jpg
+  caption: "Homme devant un iMac affichant l'intranet Jamespot, fond géométrique, forme verte. Illustre l'article « Comment déployer votre intranet d’entreprise personnalisé avec Jamespot » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [déploiement, intranet, imac, personnalisé, produit, utilisateur, jamespot, intranet d entreprise, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/jamespot-deploiement-intranet/
+  added: 2026-09-19
+
+- slug: femme-visio-imac-mosaique-vert
+  file: photos/femme-visio-imac-mosaique-vert.jpg
+  caption: "Femme en visio devant un iMac affichant une mosaïque de participants, forme verte, plante séchée. Illustre l'article « Cohésion d’équipe en télétravail : 7 leviers concrets pour managers » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [cohésion, télétravail, visio, équipe à distance, leviers, imac, réunion, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/ameliorer-cohesion-teletravail/
+  added: 2026-09-19
+
+- slug: femme-pull-violet-salue-visio
+  file: photos/femme-pull-violet-salue-visio.jpg
+  caption: "Femme en pull violet saluant de la main en visio devant son ordinateur portable, forme violette. Illustre l'article « Outils de communication en entreprise : 4 solutions à découvrir » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [outils de communication, visio, salut, télétravail, violet, sourire, bonjour, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/4-outils-collaboration/
+  added: 2026-09-19
+
+- slug: cible-cubes-2025-fleche-rouge
+  file: photos/cible-cubes-2025-fleche-rouge.jpg
+  caption: "Cible avec des cubes en bois formant 2025 et une flèche rouge. Illustre l'article « [Tribune] Les tendances numériques de 2025 par Alain Garnier » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: ["2025", tendances, cible, objectifs, flèche, prospective, nouvelle année, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/tendances-numeriques/
+  added: 2026-09-19
+
+- slug: femme-casque-sourit-ordinateur-jaune
+  file: photos/femme-casque-sourit-ordinateur-jaune.jpg
+  caption: "Femme avec un casque souriante devant un ordinateur portable, forme jaune. Illustre l'article « Télétravail : comment gérer ses projets à distance ? » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [télétravail, casque, sourire, gestion, domicile, appel, jaune, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/teletravail-gestion-projet/
+  added: 2026-09-19
+
+- slug: homme-micro-podcast-mains-jointes
+  file: photos/homme-micro-podcast-mains-jointes.jpg
+  caption: "Homme face à un micro de podcast, mains jointes, forme bleue. Illustre l'article « Tout savoir sur le podcast d’entreprise » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [podcast, micro, audio, communication interne, voix, enregistrement, studio, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/podcast-entreprise/
+  added: 2026-09-19
+
+- slug: developpeur-dos-deux-ecrans-code-bois
+  file: photos/developpeur-dos-deux-ecrans-code-bois.jpg
+  caption: "Développeur de dos devant deux écrans de code sur un bureau en bois, plantes. Illustre l'article « Un repo pour les builder tous » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [développeur, code, builder, repo, git, développement, bureau, programmation, fonctionnalites jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/repo-pour-builder/
+  added: 2026-09-19
+
+- slug: homme-mariniere-lunettes-ordinateur
+  file: photos/homme-mariniere-lunettes-ordinateur.jpg
+  caption: "Homme à lunettes en marinière travaillant sur ordinateur portable dans un bureau lumineux. Illustre l'article « Quels sont les meilleurs outils de communication interne en 2026 ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [outils de communication, marinière, concentration, bureau, choix, travail, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/outils-communication-interne/
+  added: 2026-09-19
+
+- slug: equipe-joyeuse-ecran-high-five
+  file: photos/equipe-joyeuse-ecran-high-five.jpg
+  caption: "Équipe joyeuse regroupée autour d'un écran d'ordinateur, high five. Illustre l'article « 10 façons d’améliorer l’engagement de ses employés sur sa plateforme collaborative » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [engagement, employés, joie, high five, écran, motivation, succès, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/ameliorer-engagement-plateforme-collaborative/
+  added: 2026-09-19
+
+- slug: mains-carnet-calculatrice-ordinateur
+  file: photos/mains-carnet-calculatrice-ordinateur.jpg
+  caption: "Mains écrivant sur un carnet à côté d'une calculatrice et d'un ordinateur portable. Illustre l'article « Comment la FFMAS a déployé une plateforme collaborative à son image » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [ffmas, comptabilité, calculatrice, carnet, témoignage client, gestion, plateforme collaborative, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/ffmas-renforce-communication-interne/
+  added: 2026-09-19
+
+- slug: pascal-baratoux-tribune-cybersecurite-clavier
+  file: illustrations/pascal-baratoux-tribune-cybersecurite-clavier.jpg
+  caption: "Pascal Baratoux à côté d'un clavier avec cadenas, bandeau Tribune Pascal Baratoux Responsable sécurité de Jamespot. Illustre l'article « Cybersécurité : les bonnes pratiques à adopter dans son entreprise en 2026 » (Sécurité & Souveraineté, 2025) sur le blog Jamespot"
+  tags: [pascal baratoux, tribune, cybersécurité, bonnes pratiques, rssi, sécurité, cadenas, securite souverainete, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/tribune-cybersecurite-les-bonnes-pratiques-a-adopter-dans-son-entreprise-en-2025/
+  added: 2026-09-19
+
+- slug: homme-presente-public-briques
+  file: photos/homme-presente-public-briques.jpg
+  caption: "Homme présentant devant un public assis dans un espace en briques, écran à gauche. Illustre l'article « Qu’est-ce que la sociocratie et comment l’appliquer au sein de son organisation ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [sociocratie, conférence, présentation, gouvernance, public, management, prise de parole, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/sociocratie-concept/
+  added: 2026-09-19
+
+- slug: captures-applications-jamespot-degrade
+  file: produit/captures-applications-jamespot-degrade.jpg
+  caption: "Captures d'interfaces d'applications Jamespot, formulaire et tableau, sur fond dégradé bleu. Illustre l'article « Les nouvelles applications Jamespot de 2025 » (Fonctionnalités Jamespot, 2025) sur le blog Jamespot"
+  tags: [applications, nouveautés, produit, capture, formulaire, tableau, jamespot, no-code, fonctionnalites jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/fonctionnalites-ia-jamespot/
+  added: 2026-09-19
+
+- slug: poignee-main-homme-femme-bureau-orange
+  file: photos/poignee-main-homme-femme-bureau-orange.jpg
+  caption: "Poignée de main entre un homme et une femme dans un bureau vitré, forme orange. Illustre l'article « La checklist de l’onboarding : comment bien accueillir un nouveau collaborateur ? » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [onboarding, accueil, poignée de main, intégration, rh, checklist, bienvenue, recrutement, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/checklist-onboarding-collaborateur/
+  added: 2026-09-19
+
+- slug: mains-smartphone-hologramme-tete-ia
+  file: photos/mains-smartphone-hologramme-tete-ia.jpg
+  caption: "Mains tenant un smartphone d'où émerge un hologramme de tête IA entouré d'icônes. Illustre l'article « Le dictionnaire de l’IA : LLMs, chatbot RAG, extrabot… » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [ia, dictionnaire, llm, chatbot, rag, hologramme, smartphone, vocabulaire, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/le-dictionnaire-de-lia-llms-chatbot-rag-extrabot/
+  added: 2026-09-19
+
+- slug: femme-rousse-tablette-debout-bureau
+  file: photos/femme-rousse-tablette-debout-bureau.jpg
+  caption: "Femme rousse consultant une tablette debout dans un bureau, collègues en arrière-plan. Illustre l'article « 5 idées reçues sur l’intranet » (Intranet d'entreprise, 2025) sur le blog Jamespot"
+  tags: [intranet, idées reçues, tablette, mobilité, bureau, consultation, femme, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/idees-recues-intranet/
+  added: 2026-09-19
+
+- slug: homme-chat-epaule-mug-rouge-visio
+  file: photos/homme-chat-epaule-mug-rouge-visio.jpg
+  caption: "Homme souriant avec un chat sur l'épaule et un mug rouge, saluant en visio. Illustre l'article « 6 situations cocasses à gérer en réunion à distance » (Culture d'entreprise & collaborateurs, 2025) sur le blog Jamespot"
+  tags: [réunion à distance, chat, humour, cocasse, télétravail, mug, sourire, domicile, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/situations-teletravail/
+  added: 2026-09-19
+
+- slug: imac-intranet-jamespot-mur-vert-plume
+  file: produit/imac-intranet-jamespot-mur-vert-plume.jpg
+  caption: "iMac affichant l'intranet Jamespot sur un bureau blanc devant un mur vert, plume décorative. Illustre l'article « Plateforme collaborative no-code : comprendre et bien choisir » (Travail collaboratif, 2025) sur le blog Jamespot"
+  tags: [no-code, plateforme collaborative, imac, produit, capture, décoration, jamespot, vert, travail collaboratif, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/plateforme-collaborative-no-code/
+  added: 2026-09-19
+
+- slug: carnet-content-marketing-fond-jaune
+  file: photos/carnet-content-marketing-fond-jaune.jpg
+  caption: "Carnet Content marketing avec lunettes et stylo sur fond jaune vif. Illustre l'article « Quelles sont les nouvelles formes de content marketing ? » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [content marketing, contenu, jaune, carnet, marketing, rédaction, flat lay, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/formes-content-marketing/
+  added: 2026-09-19
+
+- slug: collegues-masques-selfie-bureau
+  file: photos/collegues-masques-selfie-bureau.jpg
+  caption: "Quatre collègues masqués prenant un selfie au bureau. Illustre l'article « Team building : 4 idées pour fédérer vos collaborateurs à distance » (Management & Gouvernance, 2025) sur le blog Jamespot"
+  tags: [team building, selfie, masques, covid, équipe, fédérer, cohésion, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/team-building-distance/
+  added: 2026-09-19
+
+- slug: femme-dos-mur-ecrans-donnees-nuit
+  file: photos/femme-dos-mur-ecrans-donnees-nuit.jpg
+  caption: "Femme de dos devant un mur d'écrans de données financières la nuit. Illustre l'article « Comment et pourquoi orienter son organisation « data driven » ? » (IA & Tendances digitales, 2025) sur le blog Jamespot"
+  tags: [data, données, écrans, orientation, stratégie, nuit, analyse, organisation data, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/organisation-data-driven/
+  added: 2026-09-19
+
+- slug: equipe-high-five-collectif-vitre
+  file: photos/equipe-high-five-collectif-vitre.jpg
+  caption: "Équipe faisant un high five collectif dans un bureau vitré. Illustre l'article « Les défis de la communication interne et de la collaboration des entreprises multisites » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [high five, défis, communication interne, collectif, équipe, énergie, victoire, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/entreprise-multisite/
+  added: 2026-09-19
+
+- slug: bureau-domicile-work-from-home-lightbox
+  file: photos/bureau-domicile-work-from-home-lightbox.jpg
+  caption: "Bureau à domicile avec une lightbox Work from home, ordinateur portable, lampe et plantes. Illustre l'article « Les tendances de la communication interne en 2025 » (Communication Interne, 2025) sur le blog Jamespot"
+  tags: [télétravail, work from home, bureau à domicile, tendances, décoration, lampe, plantes, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/les-tendances-communication-interne/
+  added: 2026-09-19
+
+- slug: metavers-professionnels-ile-isometrique
+  file: illustrations/metavers-professionnels-ile-isometrique.jpg
+  caption: "Illustration isométrique colorée Le métavers des professionnels, île flottante avec bâtiments et montgolfière. Illustre l'article « Découvrez Jamespot Land, le métavers professionnel de Jamespot » (Fonctionnalités Jamespot, 2024) sur le blog Jamespot"
+  tags: [métavers, jamespot land, illustration, isométrique, virtuel, île, jeu, coloré, fonctionnalites jamespot, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/metavers-jamespot-land/
+  added: 2026-09-19
+
+- slug: femme-casque-gesticule-ordinateur-lit
+  file: photos/femme-casque-gesticule-ordinateur-lit.jpg
+  caption: "Femme avec casque gesticulant en visio devant un ordinateur portable, assise sur un lit. Illustre l'article « Comment organiser une réunion de travail efficace ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [réunion, visio, domicile, casque, animation, expressive, télétravail, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/organiser-reunion-travail/
+  added: 2026-09-19
+
+- slug: femme-sourit-imac-main-menton
+  file: photos/femme-sourit-imac-main-menton.jpg
+  caption: "Femme souriante devant un iMac, main sur le menton, bureau blanc. Illustre l'article « Comment choisir la meilleure solution de visioconférence pour son entreprise ? » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [choix, plateforme, réflexion, imac, sourire, décision, comparaison, digital workplace, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/choisir-visioconference/
+  added: 2026-09-19
+
+- slug: portrait-adelaide-bigot-thierry-immobilier
+  file: photos/portrait-adelaide-bigot-thierry-immobilier.jpg
+  caption: "Portrait d'Adélaïde Bigot de Thierry Immobilier, femme blonde souriante avec micro-cravate, en extérieur. Illustre l'article « Thierry Immobilier | Une communication interne qui grandit avec l’entreprise » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [témoignage client, thierry immobilier, immobilier, portrait, interview, cliente, innovation, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.3]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/thierry-immobilier/
+  added: 2026-09-19
+
+- slug: temoignage-la-france-mutualiste-portrait
+  file: illustrations/temoignage-la-france-mutualiste-portrait.jpg
+  caption: "Portrait d'une femme aux cheveux courts et lèvres rouges dans un bureau, bandeau Témoignage client La France Mutualiste. Illustre l'article « La France Mutualiste | Un intranet au service de la communication interne » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [témoignage client, la france mutualiste, mutuelle, portrait, interview, intranet, cliente, communication interne, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/la-france-mutualiste/
+  added: 2026-09-19
+
+- slug: quatre-collegues-mains-jointes-loft
+  file: photos/quatre-collegues-mains-jointes-loft.jpg
+  caption: "Quatre collègues mains jointes au centre dans un loft, l'un porte un bonnet. Illustre l'article « Quel est le coût réel d’une mauvaise communication interne ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [mauvaise communication, coût, cohésion, mains, loft, équipe, union, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/cout-mauvaise-communication-interne/
+  added: 2026-09-19
+
+- slug: bureau-vide-murs-blancs-table-noire
+  file: photos/bureau-vide-murs-blancs-table-noire.jpg
+  caption: "Bureau vide aux murs blancs avec une table noire et des photos épinglées. Illustre l'article « Quels sont les avantages d’un bureau virtuel pour votre entreprise ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [bureau virtuel, vide, espace, minimaliste, locaux, télétravail, blanc, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/bureau-virtuel/
+  added: 2026-09-19
+
+- slug: interface-jamespot-avant-apres
+  file: produit/interface-jamespot-avant-apres.jpg
+  caption: "Comparaison Avant et Après de l'interface Jamespot, ancienne et nouvelle version côte à côte sur fond clair. Illustre l'article « Pourquoi passer de Meta Workplace à Jamespot en 2026 ? » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [avant après, interface, nouvelle version, produit, capture, meta workplace, migration, jamespot, securite souverainete, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/meta-workplace-jamespot/
+  added: 2026-09-19
+
+- slug: femme-telephone-ordinateur-plantes-vertes
+  file: photos/femme-telephone-ordinateur-plantes-vertes.jpg
+  caption: "Femme au téléphone avec ordinateur portable entourée de plantes vertes. Illustre l'article « Bilan carbone : l’expérience de Jamespot » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [bilan carbone, écologie, plantes, vert, rse, environnement, télétravail, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/bilan-carbone-lexperience-de-jamespot/
+  added: 2026-09-19
+
+- slug: sablier-violet-bureau-souris
+  file: photos/sablier-violet-bureau-souris.jpg
+  caption: "Sablier au sable violet sur un bureau, main sur une souris en arrière-plan. Illustre l'article « Quels outils pour améliorer la productivité au travail en 2026 ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [productivité, temps, sablier, efficacité, outils, violet, urgence, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/productivite-travail/
+  added: 2026-09-19
+
+- slug: equipe-high-five-debout-lumineux
+  file: photos/equipe-high-five-debout-lumineux.jpg
+  caption: "Équipe en high five debout dans un bureau lumineux. Illustre l'article « Comment faire pour motiver ses équipes au travail ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [motivation, high five, équipe, travail, énergie, réussite, lumière, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/motivation-equipe/
+  added: 2026-09-19
+
+- slug: trois-femmes-rient-nuancier-escalier
+  file: photos/trois-femmes-rient-nuancier-escalier.jpg
+  caption: "Trois femmes riant autour d'une table avec un nuancier, escalier en bois. Illustre l'article « Les 5 applications Jamespot pour renforcer la gestion de projet » (Fonctionnalités Jamespot, 2024) sur le blog Jamespot"
+  tags: [applications, rire, femmes, créativité, nuancier, collaboration, gestion, fonctionnalites jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/5-applications-pour-renforcer-la-gestion-de-projet/
+  added: 2026-09-19
+
+- slug: mains-clavier-sur-herbe-plantes
+  file: photos/mains-clavier-sur-herbe-plantes.jpg
+  caption: "Mains sur un clavier posé sur de l'herbe, plantes vertes autour. Illustre l'article « Les solutions collaboratives et l’écologie : un duo efficace ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [écologie, vert, herbe, clavier, numérique responsable, environnement, nature, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/solutions-collaboratives-et-ecologie/
+  added: 2026-09-19
+
+- slug: femme-bonnet-noel-visio-sapin
+  file: photos/femme-bonnet-noel-visio-sapin.jpg
+  caption: "Femme en bonnet de Noël saluant en visio devant un sapin illuminé. Illustre l'article « Comment célébrer les fêtes de fin d’année dans votre plateforme Jamespot ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [noël, fêtes, "fin d'année", visio, bonnet, sapin, célébration, télétravail, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/celebrer-fetes-fin-annee-jamespot/
+  added: 2026-09-19
+
+- slug: temoignage-cd28-femme-kakemono
+  file: photos/temoignage-cd28-femme-kakemono.jpg
+  caption: "Femme souriante assise devant un kakémono Eure-et-Loir le département, retour d'expérience. Illustre l'article « Retour d’expérience du CD28 | Comment créer et déployer son intranet no code en quelques mois » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [témoignage client, eure-et-loir, cd28, département, collectivité, portrait, interview, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-cd28/
+  added: 2026-09-19
+
+- slug: open-space-poutres-bois-equipe
+  file: photos/open-space-poutres-bois-equipe.jpg
+  caption: "Grand open space moderne aux poutres en bois, équipe au travail. Illustre l'article « Déployer une Digital Workplace : les 7 étapes clés pour réussir votre projet » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [digital workplace, open space, bureaux, moderne, bois, déploiement, espace de travail, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/deploiement-digital-workplace/
+  added: 2026-09-19
+
+- slug: femme-sol-ordinateur-graphiques-chat
+  file: photos/femme-sol-ordinateur-graphiques-chat.jpg
+  caption: "Vue en plongée d'une personne assise au sol avec un ordinateur portable, graphiques papier et un chat. Illustre l'article « Tout savoir sur l’hybridation du travail (mix présentiel et télétravail) » (Management & Gouvernance, 2024) sur le blog Jamespot"
+  tags: [travail hybride, domicile, chat, plongée, graphiques, flexibilité, télétravail, décontracté, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/mix-presentiel-teletravail/
+  added: 2026-09-19
+
+- slug: femme-bras-leves-victoire-reunion
+  file: photos/femme-bras-leves-victoire-reunion.jpg
+  caption: "Femme les bras levés en signe de victoire dans une salle de réunion, collègues qui applaudissent. Illustre l'article « Les outils collaboratifs : les nouveaux tremplins de votre culture d’entreprise ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [victoire, succès, outils collaboratifs, célébration, réunion, applaudissements, joie, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/culture-dentreprise-outils-collaboratifs/
+  added: 2026-09-19
+
+- slug: cubes-enveloppes-clavier-noir
+  file: photos/cubes-enveloppes-clavier-noir.jpg
+  caption: "Cubes en bois gravés d'enveloppes posés sur un clavier noir. Illustre l'article « Comment réussir une campagne emailing interne ? » (Management & Gouvernance, 2024) sur le blog Jamespot"
+  tags: [emailing, email, campagne, enveloppe, clavier, newsletter, communication interne, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/comment-reussir-une-campagne-emailing-interne/
+  added: 2026-09-19
+
+- slug: dirigeant-senior-ecrit-bureau
+  file: photos/dirigeant-senior-ecrit-bureau.jpg
+  caption: "Dirigeant senior en veste grise écrivant à son bureau, lunettes, ordinateur portable. Illustre l'article « Intranet : les 7 KPIs à suivre pour les dirigeants d’entreprise » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [dirigeant, kpi, direction, senior, décision, pilotage, bureau, stratégie, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-kpis-dirigeants/
+  added: 2026-09-19
+
+- slug: globe-reseau-lumineux-bleu
+  file: photos/globe-reseau-lumineux-bleu.jpg
+  caption: "Globe terrestre en réseau de lignes lumineuses bleues sur fond sombre. Illustre l'article « Quelle est la place de la souveraineté numérique au sein des organisations ? » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [souveraineté, globe, réseau, monde, numérique, bleu, connexion, international, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-etude-2023/
+  added: 2026-09-19
+
+- slug: dockers-gilets-jaunes-conteneurs
+  file: photos/dockers-gilets-jaunes-conteneurs.jpg
+  caption: "Équipe de dockers en gilets jaunes marchant entre des conteneurs, chariot élévateur rouge. Illustre l'article « 5 outils Jamespot pour engager vos collaborateurs terrain dans votre communication interne » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [terrain, logistique, port, conteneurs, ouvriers, engager, sans bureau, industrie, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/collaborateurs-terrain-outils-jamespot/
+  added: 2026-09-19
+
+- slug: elu-echarpe-tricolore-dos-ville
+  file: photos/elu-echarpe-tricolore-dos-ville.jpg
+  caption: "Élu de dos portant l'écharpe tricolore devant un panorama de ville. Illustre l'article « Secteur public : comment lancer et réussir votre projet collaboratif ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [élu, maire, écharpe tricolore, secteur public, collectivité, ville, république, projet, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/secteur-public-projet/
+  added: 2026-09-19
+
+- slug: homme-dos-ville-futuriste-connectee
+  file: photos/homme-dos-ville-futuriste-connectee.jpg
+  caption: "Homme de dos regardant une ville futuriste connectée la nuit, lignes lumineuses. Illustre l'article « Quelles sont les futures tendances du travail ? » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [futur, tendances, travail, ville, nuit, connecté, vision, prospective, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.3, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/futures-tendances-du-travail/
+  added: 2026-09-19
+
+- slug: poignee-main-robot-humain-bleu
+  file: photos/poignee-main-robot-humain-bleu.jpg
+  caption: "Poignée de main entre une main robotique argentée et une main humaine en costume, fond bleu. Illustre l'article « L’impact de l’IA sur la digital workplace : état des lieux et projection » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [ia, intelligence artificielle, robot, digital workplace, poignée de main, impact, bleu, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-digital-workplace/
+  added: 2026-09-19
+
+- slug: equipe-quatre-ordinateur-femme-jaune
+  file: photos/equipe-quatre-ordinateur-femme-jaune.jpg
+  caption: "Équipe de quatre autour d'un ordinateur portable, femme au pull jaune au centre. Illustre l'article « Communication interne :  quelles actions entreprendre pour la renforcer ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [communication interne, actions, équipe, ordinateur, jaune, collaboration, réunion, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/renforcer-communication-interne/
+  added: 2026-09-19
+
+- slug: mains-ordinateur-intranet-jamespot-reunion
+  file: produit/mains-ordinateur-intranet-jamespot-reunion.jpg
+  caption: "Mains sur un ordinateur portable affichant l'intranet Jamespot pendant une réunion. Illustre l'article « Pourquoi choisir Jamespot comme Digital Workplace pour son organisation ? » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [digital workplace, intranet, produit, capture, réunion, choisir, jamespot, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  focal: [0.4, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/choisir-jamespot/
+  added: 2026-09-19
+
+- slug: homme-dos-visio-mosaique-portable
+  file: photos/homme-dos-visio-mosaique-portable.jpg
+  caption: "Homme de dos en visio sur un ordinateur portable, mosaïque de participants. Illustre l'article « Les DSI face aux défis du travail hybride » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [dsi, travail hybride, visio, défis, réunion à distance, it, participants, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/dsi-defis-travail-hybride/
+  added: 2026-09-19
+
+- slug: femme-lunettes-ecran-donnees-bleu
+  file: photos/femme-lunettes-ecran-donnees-bleu.jpg
+  caption: "Femme aux cheveux courts et lunettes devant un écran de données, lumière bleue. Illustre l'article « Cybersécurite et IA : que dit l’étude Gartner » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [cybersécurité, ia, analyste, données, bleu, écran, sécurité, femme, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/etude-gartner-cybersecurite-ia/
+  added: 2026-09-19
+
+- slug: trois-collegues-cercle-tablette-detendus
+  file: photos/trois-collegues-cercle-tablette-detendus.jpg
+  caption: "Trois collègues assis en cercle avec une tablette, conversation détendue. Illustre l'article « 5 idées de publication Jamespot pour une stratégie de communication interne efficace » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [publication, idées, conversation, tablette, détendu, équipe, contenu, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/idees-publications-jamespot/
+  added: 2026-09-19
+
+- slug: mains-code-ordinateur-lumiere-bleue
+  file: photos/mains-code-ordinateur-lumiere-bleue.jpg
+  caption: "Mains tapant du code sur un ordinateur portable, lumière bleue. Illustre l'article « RSSI : comment engager vos collaborateurs autour de la cybersécurité ? » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [rssi, code, sécurité, développement, bleu, informatique, engager, digital workplace, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/rssi-engagement-collaborateurs-cybersecurite-digital-workplace/
+  added: 2026-09-19
+
+- slug: collegues-rient-cafe-briques
+  file: photos/collegues-rient-cafe-briques.jpg
+  caption: "Collègues riant ensemble avec des gobelets de café dans un bureau aux murs de briques. Illustre l'article « Quels sont les KPIs à utiliser pour mesurer sa communication interne ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [convivialité, café, rire, équipe, kpi, communication interne, pause, ambiance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/kpi-communication-interne/
+  added: 2026-09-19
+
+- slug: manager-debout-presente-equipe-salle
+  file: photos/manager-debout-presente-equipe-salle.jpg
+  caption: "Manager debout présentant à son équipe en salle de réunion, documents en main. Illustre l'article « Où en êtes-vous dans votre communication interne ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [communication interne, manager, présentation, réunion, diagnostic, équipe, bilan, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/bilan-communication-interne/
+  added: 2026-09-19
+
+- slug: reunion-affaires-graphique-tablette
+  file: photos/reunion-affaires-graphique-tablette.jpg
+  caption: "Réunion d'affaires, homme pointant un graphique sur tablette, collègues en costume. Illustre l'article « Maintenir et renforcer sa culture d’entreprise à distance » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: ["culture d'entreprise", réunion, graphique, tablette, costume, affaires, résultats, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/culture-entreprise-travail-distance/
+  added: 2026-09-19
+
+- slug: femme-blonde-lunettes-sourit-bureau
+  file: photos/femme-blonde-lunettes-sourit-bureau.jpg
+  caption: "Femme blonde à lunettes souriante à son bureau, collègue en arrière-plan. Illustre l'article « Embarquez vos équipes avec le management collaboratif » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [management collaboratif, sourire, bureau, embarquer, équipe, femme, confiance, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/management-collaboratif/
+  added: 2026-09-19
+
+- slug: femme-dos-deux-ecrans-bureau-plantes
+  file: photos/femme-dos-deux-ecrans-bureau-plantes.jpg
+  caption: "Femme de dos travaillant devant deux écrans à son bureau, plantes. Illustre l'article « Améliorer le suivi de projet grâce à une meilleure communication » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [suivi de projet, gestion de projet, écrans, bureau, organisation, plantes, concentration, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/amelioration-suivi-projet/
+  added: 2026-09-19
+
+- slug: poignee-main-deux-hommes-reunion
+  file: photos/poignee-main-deux-hommes-reunion.jpg
+  caption: "Poignée de main entre deux hommes en réunion, documents sur la table. Illustre l'article « Structurer l’information en entreprise : 5 applications Jamespot indispensables » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [structurer, information, accord, poignée de main, réunion, confiance, partenariat, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/5-applications-jamespot-pour-la-structuration-dinformations/
+  added: 2026-09-19
+
+- slug: homme-dos-visio-grand-ecran-pomme
+  file: photos/homme-dos-visio-grand-ecran-pomme.jpg
+  caption: "Homme de dos en visio sur un grand écran, mosaïque de participants, pomme sur le bureau. Illustre l'article « Qu’est-ce que le travail hybride ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [travail hybride, visio, écran, réunion à distance, domicile, participants, hybride, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/travail-hybride-definition/
+  added: 2026-09-19
+
+- slug: cubes-dores-metaverse-circuit
+  file: photos/cubes-dores-metaverse-circuit.jpg
+  caption: "Cubes dorés formant le mot METAVERSE sur un circuit bleu. Illustre l'article « Comment utiliser le métavers en entreprise ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [métavers, metaverse, cubes, or, circuit, virtuel, entreprise, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/metaverse-entreprise/
+  added: 2026-09-19
+
+- slug: homme-roux-ecouteurs-ordinateur-cuisine
+  file: photos/homme-roux-ecouteurs-ordinateur-cuisine.jpg
+  caption: "Homme roux avec écouteurs travaillant sur ordinateur portable dans une cuisine. Illustre l'article « Refonte intranet : quelle stratégie adopter ? » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [refonte, intranet, stratégie, télétravail, cuisine, écouteurs, concentration, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/refonte-intranet-quelle-strategie-adopter/
+  added: 2026-09-19
+
+- slug: bureau-domicile-mur-vert-chaise-doree
+  file: photos/bureau-domicile-mur-vert-chaise-doree.jpg
+  caption: "Bureau à domicile stylé avec mur vert, chaise dorée, horloge et plantes. Illustre l'article « Comment mettre en place le télétravail dans son entreprise ? » (Management & Gouvernance, 2024) sur le blog Jamespot"
+  tags: [télétravail, bureau à domicile, décoration, vert, aménagement, mise en place, design, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/comment-mettre-en-place-le-teletravail-dans-son-entreprise/
+  added: 2026-09-19
+
+- slug: reunion-hybride-salle-ecran-distante
+  file: photos/reunion-hybride-salle-ecran-distante.jpg
+  caption: "Réunion hybride : équipe en salle face à un écran avec une participante à distance. Illustre l'article « Guide : comment animer une réunion de travail ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [réunion hybride, animer, salle, écran, distance, équipe, guide, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/animer-reunion-guide/
+  added: 2026-09-19
+
+- slug: quatre-femmes-discussion-terrasse-vert
+  file: photos/quatre-femmes-discussion-terrasse-vert.jpg
+  caption: "Quatre femmes en discussion sur une terrasse ensoleillée, forme verte. Illustre l'article « Communication interne en entreprise : enjeux, types et outils en 2026 » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [communication interne, discussion, femmes, terrasse, enjeux, informel, échange, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/importance-communication-entreprise/
+  added: 2026-09-19
+
+- slug: homme-barbu-sourit-ordinateur-salon
+  file: photos/homme-barbu-sourit-ordinateur-salon.jpg
+  caption: "Homme barbu souriant travaillant sur ordinateur portable dans un salon blanc. Illustre l'article « Notre guide complet sur l’expérience collaborateur » (Culture d'entreprise & collaborateurs, 2024) sur le blog Jamespot"
+  tags: [expérience collaborateur, sourire, domicile, salon, bien-être, télétravail, guide, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/experience-collaborateur-notre-guide-complet/
+  added: 2026-09-19
+
+- slug: open-space-briques-fauteuil-roulant
+  file: photos/open-space-briques-fauteuil-roulant.jpg
+  caption: "Open space aux murs de briques, employés au travail, une femme en fauteuil roulant. Illustre l'article « Nos tops outils collaboratifs pour performer en entreprise » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [outils collaboratifs, open space, inclusion, fauteuil roulant, briques, bureaux, diversité, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/nos-tops-outils-collaboratifs-pour-performer-en-entreprise/
+  added: 2026-09-19
+
+- slug: reunion-table-blanche-femme-debout
+  file: photos/reunion-table-blanche-femme-debout.jpg
+  caption: "Réunion d'équipe autour d'une table blanche avec ordinateurs portables, une femme debout anime. Illustre l'article « Les outils de communication interne pour gagner en efficacité » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [outils de communication, réunion, animation, équipe, table, debout, collaboration, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/outils-communication-interne-gagner-efficacite/
+  added: 2026-09-19
+
+- slug: village-pierre-vignes-ciel-bleu
+  file: photos/village-pierre-vignes-ciel-bleu.jpg
+  caption: "Village de pierre au clocher entouré de vignes sous un ciel bleu, Saint-Émilion. Illustre l'article « Des solutions collaboratives souveraines pour renforcer la communication des collectivités territoriales » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [collectivités, territoire, village, vignes, rural, commune, patrimoine, souverain, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/collectivites-territoriales/
+  added: 2026-09-19
+
+- slug: reunion-femme-rousse-debout-explique
+  file: photos/reunion-femme-rousse-debout-explique.jpg
+  caption: "Réunion d'équipe autour d'un ordinateur, femme rousse debout explique. Illustre l'article « Collaboration en ligne : Les meilleurs outils pour les entreprises modernes » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [collaboration en ligne, réunion, explication, équipe, rousse, animation, outils, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/collaboration-en-ligne-outils-entreprises/
+  added: 2026-09-19
+
+- slug: femme-chemise-blanche-gants-micro
+  file: photos/femme-chemise-blanche-gants-micro.jpg
+  caption: "Femme en chemise blanche enfilant des gants noirs devant un micro de studio, bureau lumineux. Illustre l'article « Intranet collaboratif ou RSE : quelle différence et quel outil choisir ? » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [rse, intranet collaboratif, studio, micro, préparation, femme, choix, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-vs-rse/
+  added: 2026-09-19
+
+- slug: femme-blonde-bras-croises-open-space-soir
+  file: photos/femme-blonde-bras-croises-open-space-soir.jpg
+  caption: "Femme blonde à lunettes, bras croisés, souriante dans un open space le soir. Illustre l'article « Qu’est-ce que le travail collaboratif ? » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [travail collaboratif, confiance, sourire, open space, soir, femme, assurance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/travail-collaboratif-avantages-defis-et-outils/
+  added: 2026-09-19
+
+- slug: batiment-hopital-moderne-vert
+  file: photos/batiment-hopital-moderne-vert.jpg
+  caption: "Bâtiment moderne d'hôpital avec entrée vitrée, forme verte en surimpression. Illustre l'article « GHT Bourgogne Méridionale : 5 hôpitaux, une plateforme de communication unique » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [hôpital, ght, santé, bâtiment, établissement, témoignage client, bourgogne, plateforme, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/rex-ght-bourgogne-meridionale-jamespot/
+  added: 2026-09-19
+
+- slug: duo-perplexe-documents-open-space
+  file: photos/duo-perplexe-documents-open-space.jpg
+  caption: "Homme et femme perplexes lisant des documents dans un open space. Illustre l'article « Les 8 idées reçues sur le réseau social d’entreprise » (Réseau social d'entreprise, 2024) sur le blog Jamespot"
+  tags: [idées reçues, "réseau social d'entreprise", doute, documents, questionnement, duo, lecture, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/idees-reseau-social-dentreprise/
+  added: 2026-09-19
+
+- slug: deux-collegues-imac-bureau-jaune
+  file: photos/deux-collegues-imac-bureau-jaune.jpg
+  caption: "Deux collègues devant un iMac dans un bureau lumineux, forme jaune en surimpression. Illustre l'article « Pourquoi utiliser un outil collaboratif en entreprise ? 5 raisons clés » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [outil collaboratif, duo, imac, entraide, bureau, collaboration, jaune, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/pourquoi-outil-collaboratif/
+  added: 2026-09-19
+
+- slug: btp-isometrique-orange-pelleteuse-casque
+  file: illustrations/btp-isometrique-orange-pelleteuse-casque.jpg
+  caption: "Illustration isométrique sur fond orange : pelleteuse, tuyaux, casque de chantier et maison. Illustre l'article « Parole d’externe: l’importance du collectif et de la communication Interne dans le secteur du BTP » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [btp, chantier, construction, isométrique, orange, illustration, secteur, collectif, communication interne, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/communication-interne-dans-le-secteur-du-btp/
+  added: 2026-09-19
+
+- slug: femme-medite-lotus-sur-bureau
+  file: photos/femme-medite-lotus-sur-bureau.jpg
+  caption: "Femme en tailleur méditant en position du lotus sur son bureau, ordinateur portable et pomme. Illustre l'article « Comment déployer un réseau social d’entreprise ? » (Réseau social d'entreprise, 2024) sur le blog Jamespot"
+  tags: [zen, sérénité, méditation, déploiement, "réseau social d'entreprise", calme, humour, bien-être, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/animation-reseau-social-entreprise/
+  added: 2026-09-19
+
+- slug: soignants-medecins-hall-hopital
+  file: photos/soignants-medecins-hall-hopital.jpg
+  caption: "Soignants et médecins en discussion dans un hall d'hôpital lumineux. Illustre l'article « Les 5 piliers d’un intranet hospitalier vraiment collaboratif » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [hôpital, intranet hospitalier, santé, médecins, soignants, hall, piliers, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/intranet-hospitalier-piliers-collaboratif/
+  added: 2026-09-19
+
+- slug: podcast-leader-advocacy-portraits
+  file: illustrations/podcast-leader-advocacy-portraits.jpg
+  caption: "Visuel du podcast Leader Advocacy en noir et néon, deux portraits d'hommes et un micro. Illustre l'article « Souveraineté numérique et leadership : Le rôle des dirigeants dans un monde digital » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [podcast, leader advocacy, leadership, souveraineté, alain garnier, néon, audio, securite souverainete, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-dirigeants/
+  added: 2026-09-19
+
+- slug: romaric-pighetti-interview-ia-frontend
+  file: illustrations/romaric-pighetti-interview-ia-frontend.jpg
+  caption: "Romaric Pighetti à côté d'un visuel IA, encart Une interview de Romaric Pighetti Développeur Frontend chez Jamespot. Illustre l'article « [Interview] L’intégration de l’IA au coeur de Jamespot avec Romaric Pighetti, développeur Frontend » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [romaric pighetti, interview, ia, développeur, frontend, intégration, équipe jamespot, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/interview-lintegration-de-lia-au-coeur-de-jamespot-avec-romaric-pighetti-developpeur-frontend/
+  added: 2026-09-19
+
+- slug: alain-garnier-tribune-ia-vision-pragmatique
+  file: illustrations/alain-garnier-tribune-ia-vision-pragmatique.jpg
+  caption: "Alain Garnier bras croisés à côté d'une tête IA de profil, bandeau Tribune Alain Garnier CEO de Jamespot, fond violet. Illustre l'article « [Tribune] Jamespot, une vision pragmatique de l’IA par Alain Garnier » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [alain garnier, tribune, ia, vision, pragmatique, ceo, intelligence artificielle, ia tendances digitales, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-vision-jamespot/
+  added: 2026-09-19
+
+- slug: equipe-penchee-ordinateur-contre-jour
+  file: photos/equipe-penchee-ordinateur-contre-jour.jpg
+  caption: "Équipe penchée sur un ordinateur portable, vue à contre-jour devant une baie vitrée. Illustre l'article « Déployer un outil collaboratif : les 5 erreurs à ne pas faire » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [déploiement, outil collaboratif, erreurs, équipe, contre-jour, écran, concentration, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/deployer-un-outil-collaboratif-les-5-erreurs-a-ne-pas-faire/
+  added: 2026-09-19
+
+- slug: trois-collegues-plans-atelier
+  file: photos/trois-collegues-plans-atelier.jpg
+  caption: "Trois collègues travaillant sur des plans et un ordinateur dans un atelier lumineux. Illustre l'article « Collaboration d’entreprise : définition, enjeux et comment l’optimiser » (Travail collaboratif, 2024) sur le blog Jamespot"
+  tags: [collaboration, plans, atelier, architecture, projet, équipe, définition, travail collaboratif, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/travail-collaboratif/collaboration-dentreprise/
+  added: 2026-09-19
+
+- slug: trois-collegues-post-it-bibliotheque
+  file: photos/trois-collegues-post-it-bibliotheque.jpg
+  caption: "Trois collègues autour d'un ordinateur portable et de post-it, bibliothèque en arrière-plan. Illustre l'article « Plan de communication interne : méthode et modèle à suivre » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [plan de communication, méthode, post-it, atelier, modèle, équipe, planification, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/plan-communication-interne/
+  added: 2026-09-19
+
+- slug: cercle-assis-ordinateurs-baskets-plongee
+  file: photos/cercle-assis-ordinateurs-baskets-plongee.jpg
+  caption: "Vue en plongée de personnes assises en cercle avec ordinateurs portables, baskets. Illustre l'article « Comment choisir la solution collaborative la plus adaptée à votre entreprise ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [choix, solution collaborative, plongée, cercle, équipe, décontracté, atelier, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/solution-collaborative-organisation/
+  added: 2026-09-19
+
+- slug: drapeau-francais-arc-de-triomphe
+  file: photos/drapeau-francais-arc-de-triomphe.jpg
+  caption: "Drapeau français flottant sous la voûte de l'Arc de Triomphe, ciel bleu. Illustre l'article « Souveraineté numérique : pourquoi les alternatives françaises aux géants américains gagnent du terrain » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [france, drapeau, arc de triomphe, souveraineté, paris, alternatives, patriotisme, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-pourquoi-les-alternatives-francaises-aux-geants-americains-gagnent-du-terrain/
+  added: 2026-09-19
+
+- slug: cadenas-sur-ordinateur-violet
+  file: photos/cadenas-sur-ordinateur-violet.jpg
+  caption: "Cadenas posé sur un ordinateur portable, tons bleu et violet. Illustre l'article « Comment Jamespot assure la souveraineté numérique pour ses clients ? » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [souveraineté, sécurité, cadenas, ordinateur, protection, violet, jamespot, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/comment-jamespot-assure-la-souverainete-numerique-pour-ses-clients/
+  added: 2026-09-19
+
+- slug: globe-reseau-bleu-introduction
+  file: photos/globe-reseau-bleu-introduction.jpg
+  caption: "Globe terrestre en réseau lumineux bleu, vue centrée sur l'Europe et l'Afrique. Illustre l'article « Introduction à la souveraineté numérique : pourquoi est-elle cruciale pour les entreprises B2B ? » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [souveraineté, globe, réseau, introduction, monde, bleu, numérique, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/introduction-a-la-souverainete-numerique-pourquoi-est-elle-cruciale-pour-les-entreprises-b2b/
+  added: 2026-09-19
+
+- slug: facade-ministere-drapeau-francais
+  file: photos/facade-ministere-drapeau-francais.jpg
+  caption: "Façade d'un hôtel particulier ministériel avec un drapeau français. Illustre l'article « Comment protéger sa collectivité territoriale contre les cyberattaques ? » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [collectivité, cyberattaques, protection, état, ministère, drapeau, bâtiment, sécurité, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/comment-proteger-sa-collectivite-territoriale-contre-les-cyberattaques/
+  added: 2026-09-19
+
+- slug: equipe-table-captures-jamespot-superposees
+  file: illustrations/equipe-table-captures-jamespot-superposees.jpg
+  caption: "Équipe autour d'une table avec des captures d'interface Jamespot en surimpression. Illustre l'article « Manager autrement : la puissance des solutions collaboratives » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [manager autrement, management, produit, équipe, capture, collaboration, jamespot, communication interne, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/manager-autrement-la-puissance-des-solutions-collaboratives/
+  added: 2026-09-19
+
+- slug: ordinateur-intranet-jamespot-degrade-bleu
+  file: produit/ordinateur-intranet-jamespot-degrade-bleu.jpg
+  caption: "Ordinateur portable affichant l'intranet Jamespot sur un fond dégradé bleu avec formes. Illustre l'article « Pourquoi et comment déployer un intranet collaboratif ? » (Intranet d'entreprise, 2024) sur le blog Jamespot"
+  tags: [intranet collaboratif, déploiement, produit, capture, ordinateur, jamespot, bleu, intranet d entreprise, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/deployer-intranet-collaboratif/
+  added: 2026-09-19
+
+- slug: chemise-bleue-hologramme-ia-recherche
+  file: photos/chemise-bleue-hologramme-ia-recherche.jpg
+  caption: "Personne en chemise bleue tapant sur un clavier, hologramme de tête IA et barre de recherche. Illustre l'article « Comment l’IA transforme-t-elle la communication au sein des solutions collaboratives ? » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [ia, communication, recherche, hologramme, transformation, assistant, clavier, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/ia-solutions-collaboratives/
+  added: 2026-09-19
+
+- slug: mains-jointes-jeune-pousse
+  file: photos/mains-jointes-jeune-pousse.jpg
+  caption: "Mains de plusieurs personnes jointes au centre tenant une jeune pousse. Illustre l'article « 5 stratégies efficaces pour impliquer vos collaborateurs dans votre stratégie RSE » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [impliquer, collaborateurs, pousse, croissance, mains, écologie, collectif, engagement, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/5-strategies-efficaces-pour-impliquer-vos-collaborateurs-dans-votre-strategie-rse/
+  added: 2026-09-19
+
+- slug: hall-accueil-hopital-soignants-patients
+  file: photos/hall-accueil-hopital-soignants-patients.jpg
+  caption: "Hall d'accueil d'un établissement de santé avec soignants et patients. Illustre l'article « Comment faciliter le quotidien des professionnels de santé grâce aux outils collaboratifs ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [santé, hôpital, accueil, professionnels, quotidien, patients, clinique, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/sante-outils-collaboratifs/
+  added: 2026-09-19
+
+- slug: alain-garnier-tribune-drapeau-americain
+  file: illustrations/alain-garnier-tribune-drapeau-americain.jpg
+  caption: "Alain Garnier bras croisés à côté d'un drapeau américain, bandeau Tribune Alain Garnier CEO de Jamespot. Illustre l'article « [Tribune] Ce que Microsoft ne dit pas dans ses « engagements européens » par Alain Garnier » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [alain garnier, tribune, microsoft, états-unis, dépendance, souveraineté, ceo, securite souverainete, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/microsoft-engagements-europeens/
+  added: 2026-09-19
+
+- slug: interfaces-workplace-jamespot-comparaison
+  file: produit/interfaces-workplace-jamespot-comparaison.jpg
+  caption: "Comparaison d'interfaces Workplace et Jamespot séparées par une barre violette, sur ordinateur portable. Illustre l'article « Jamespot VS Workplace : une alternative et une évolution à la solution américaine » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [workplace, meta, comparaison, alternative, produit, capture, migration, jamespot, securite souverainete, blog jamespot]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/jamespot-vs-workplace-une-alternative-et-une-evolution-a-la-solution-americaine/
+  added: 2026-09-19
+
+- slug: alain-garnier-tribune-drapeaux-francais
+  file: illustrations/alain-garnier-tribune-drapeaux-francais.jpg
+  caption: "Alain Garnier bras croisés à côté de drapeaux français sur une façade, bandeau Tribune Alain Garnier CEO de Jamespot. Illustre l'article « Pourquoi la souveraineté numérique est décisive pour le secteur public » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [alain garnier, tribune, souveraineté numérique, france, drapeaux, décisive, ceo, securite souverainete, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/souverainete-secteur-public/
+  added: 2026-09-19
+
+- slug: ordinateur-visio-mosaique-plante
+  file: photos/ordinateur-visio-mosaique-plante.jpg
+  caption: "Ordinateur portable affichant une visio en mosaïque, plante verte au premier plan. Illustre l'article « Quels sont les meilleurs logiciels de télétravail ? » (IA & Tendances digitales, 2024) sur le blog Jamespot"
+  tags: [télétravail, logiciels, visio, mosaïque, plante, réunion, outils, ia tendances digitales, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/ia-tendances-digitales/logiciels-teletravail/
+  added: 2026-09-19
+
+- slug: ordinateur-plantes-plongee-sobriete
+  file: photos/ordinateur-plantes-plongee-sobriete.jpg
+  caption: "Vue en plongée d'un ordinateur portable entouré de plantes, clavier et smartphone. Illustre l'article « Sobriété numérique : 5 actions à mettre en place pour votre collectivité territoriale » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
+  tags: [sobriété numérique, écologie, plantes, plongée, numérique responsable, flat lay, vert, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/sobriete-numerique-5-actions-a-mettre-en-place-pour-votre-collectivite-territoriale/
+  added: 2026-09-19
+
+- slug: reunion-table-blanche-femme-debout-2
+  file: photos/reunion-table-blanche-femme-debout-2.jpg
+  caption: "Réunion d'équipe autour d'une table blanche, une femme debout parle aux collègues. Illustre l'article « Qu’est-ce que la communication transversale en entreprise ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [communication transversale, réunion, équipe, debout, échange, table, services, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/communication-transversale/
+  added: 2026-09-19
+
+- slug: salle-reunion-homme-presente-ecran-equipe
+  file: photos/salle-reunion-homme-presente-ecran-equipe.jpg
+  caption: "Salle de réunion, un homme présente devant un écran, équipe assise avec ordinateurs. Illustre l'article « Gestion d’équipe : comment l’optimiser pour tirer ses équipes vers le haut ? » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: ["gestion d'équipe", réunion, présentation, écran, équipe, optimiser, management, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/gestion-equipe/
+  added: 2026-09-19
+
+- slug: equipe-joyeuse-baie-vitree-fauteuil-roulant
+  file: photos/equipe-joyeuse-baie-vitree-fauteuil-roulant.jpg
+  caption: "Équipe joyeuse autour d'un ordinateur portable devant une baie vitrée, une femme en fauteuil roulant. Illustre l'article « Pourquoi les associations et syndicats professionnels choisissent Jamespot ? » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [associations, inclusion, équipe, joie, fauteuil roulant, bénévoles, collectif, digital workplace, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/associations-syndicats-jamespot/
+  added: 2026-09-19
+
+- slug: homme-tape-ordinateur-boite-mail
+  file: photos/homme-tape-ordinateur-boite-mail.jpg
+  caption: "Homme de dos tapant sur un ordinateur portable qui affiche une boîte mail, plante et lunettes sur le bureau. Illustre l'article « Réduire sa dépendance au mail : 5 bénéfices pour votre organisation » (Digital Workplace, 2024) sur le blog Jamespot"
+  tags: [email, mail, boîte de réception, bureau, surcharge, productivité, dépendance au mail, digital workplace, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/digital-workplace/reduire-sa-dependance-au-mail-5-benefices-pour-votre-organisation/
+  added: 2026-09-19
+
+- slug: reunion-salle-homme-debout-presente
+  file: photos/reunion-salle-homme-debout-presente.jpg
+  caption: "Réunion d'équipe en salle, un homme debout présente, collègues assis autour de la table. Illustre l'article « Impliquez vos collaborateurs dans votre stratégie annuelle d’entreprise » (Communication Interne, 2024) sur le blog Jamespot"
+  tags: [impliquer, stratégie, réunion, présentation, équipe, collaborateurs, participation, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/strategie-dentreprise/
+  added: 2026-09-19
+
+- slug: billet-embarquement-jamespot-summit-2023
+  file: illustrations/billet-embarquement-jamespot-summit-2023.jpg
+  caption: "Billet d'embarquement violet Jamespot Summit Future of Work, 30 novembre 2023, avec une fusée. Illustre l'article « Jamespot Summit 2023 : le futur du travail et de la communication interne » (Actualités, 2023) sur le blog Jamespot"
+  tags: [jamespot summit, "2023", future of work, billet, fusée, événement, invitation, violet, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/jamespot-summit-2023/
+  added: 2026-09-19
+
+- slug: equipe-jamespot-vue-haut-toboggan-day
+  file: photos/equipe-jamespot-vue-haut-toboggan-day.jpg
+  caption: "Photo de groupe de l'équipe Jamespot vue d'en haut avec toboggan, annonce du Jamespot Day. Illustre l'article « Jamespot Day | Rendez-vous le 06 juin prochain pour une nouvelle édition 100% hybride » (Actualités, 2023) sur le blog Jamespot"
+  tags: [équipe jamespot, jamespot day, événement interne, photo de groupe, culture, juin, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/jamespot-day-2023/
+  added: 2026-09-19
+
+- slug: stand-jamespot-salon-enseigne-bleue
+  file: photos/stand-jamespot-salon-enseigne-bleue.jpg
+  caption: "Stand Jamespot sur un salon professionnel, enseigne bleue et tapis bleu. Illustre l'article « Rendez-vous du 21 au 23 mars pour le salon intranet 2023 ! » (Intranet d'entreprise, 2023) sur le blog Jamespot"
+  tags: [salon, stand, événement, jamespot, rendez-vous, exposition, mars, commercial, intranet d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/intranet-entreprise/salon-intranet-2023/
+  added: 2026-09-19
+
+- slug: homme-ordinateur-cuisine
+  file: photos/homme-ordinateur-cuisine.jpg
+  caption: "Homme travaillant sur ordinateur portable dans sa cuisine, documents et tasse. Illustre l'article « Le management à l’ère du métavers » (Management & Gouvernance, 2023) sur le blog Jamespot"
+  tags: [management, métavers, télétravail, cuisine, domicile, concentration, homme, management gouvernance, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/management-gouvernance/metavers-opportunites-managers/
+  added: 2026-09-19
+
+- slug: jamespot-land-cartes-pixel-art
+  file: illustrations/jamespot-land-cartes-pixel-art.jpg
+  caption: "Illustrations de Jamespot Land : cartes de jeu vidéo en pixel art, ville, île et montagne. Illustre l'article « Les nouveautés produit Jamespot de 2023 » (Fonctionnalités Jamespot, 2023) sur le blog Jamespot"
+  tags: [jamespot land, métavers, pixel art, jeu, nouveautés, "2023", virtuel, illustration, fonctionnalites jamespot, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/nouveautes-produit-jamespot/
+  added: 2026-09-19
+
+- slug: equipe-jamespot-rue-fresque-selfie
+  file: photos/equipe-jamespot-rue-fresque-selfie.jpg
+  caption: "Photo de groupe de l'équipe Jamespot dans une rue devant une fresque, selfie au premier plan. Illustre l'article « Les moments forts de Jamespot en 2022 » (Actualités, 2022) sur le blog Jamespot"
+  tags: [équipe jamespot, moments forts, "2022", selfie, rue, sortie, culture, événement interne, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/les-moments-forts-de-jamespot-en-2022/
+  added: 2026-09-19
+
+- slug: jamespot-summit-banniere-orange-pixel
+  file: illustrations/jamespot-summit-banniere-orange-pixel.jpg
+  caption: "Bannière orange Jamespot Summit avec des personnages en pixel art. Illustre l'article « Jamespot Summit | Découvrez le futur de la communication le 24 novembre prochain » (Actualités, 2022) sur le blog Jamespot"
+  tags: [jamespot summit, événement, orange, pixel art, futur, communication, conférence, actualites, blog jamespot]
+  kind: illustration
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/jamespot-summit-communication/
+  added: 2026-09-19
+
+- slug: femme-pull-jaune-telephone-chat
+  file: photos/femme-pull-jaune-telephone-chat.jpg
+  caption: "Femme en pull jaune au téléphone à son bureau, post-it au mur, un chat assis sur la chaise. Illustre l'article « Découvrez la routine télétravail chez Jamespot ! » (Fonctionnalités Jamespot, 2022) sur le blog Jamespot"
+  tags: [télétravail, routine, chat, téléphone, domicile, post-it, quotidien, jaune, fonctionnalites jamespot, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/fonctionnalites-jamespot/routine-teletravail-jamespot/
+  added: 2026-09-19
+
+- slug: equipe-jamespot-vue-haut-toboggan-2022
+  file: photos/equipe-jamespot-vue-haut-toboggan-2022.jpg
+  caption: "Photo de groupe de l'équipe Jamespot vue d'en haut dans un espace avec toboggan, Jamespot Day 2022. Illustre l'article « Retour sur le Jamespot Day 2022 » (Actualités, 2022) sur le blog Jamespot"
+  tags: [équipe jamespot, jamespot day, "2022", événement interne, photo de groupe, culture, séminaire, actualites, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/actualites/jamespot-day-edition-2022/
+  added: 2026-09-19
+
+- slug: drapeau-francais-3d-fond-numerique
+  file: photos/drapeau-francais-3d-fond-numerique.jpg
+  caption: "Drapeau français en trois dimensions sur un fond numérique bleu de données. Illustre l'article « Cloud souverain : 8 acteurs français s’érigent en alternative à Microsoft 365 » (Sécurité & Souveraineté, 2021) sur le blog Jamespot"
+  tags: [cloud souverain, france, drapeau, numérique, souveraineté, acteurs français, données, bleu, securite souverainete, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.4, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/securite-souverainete/cloud-alternative-365/
+  added: 2026-09-19
+
+- slug: silhouette-papier-escalier-bois
+  file: photos/silhouette-papier-escalier-bois.jpg
+  caption: "Main tenant une silhouette en papier qui monte un escalier de blocs en bois. Illustre l'article « Télétravail : séparer le professionnel, le personnel et le privé » (Culture d'entreprise & collaborateurs, 2021) sur le blog Jamespot"
+  tags: [équilibre, télétravail, progression, vie pro vie perso, escalier, papier, métaphore, carrière, culture d entreprise collaborateurs, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/culture-entreprise-collaborateurs/teletravail-separer-vie-pro-perso/
+  added: 2026-09-19
+
+- slug: trois-collegues-ecran-concentres
+  file: photos/trois-collegues-ecran-concentres.jpg
+  caption: "Trois collègues concentrés devant un écran d'ordinateur dans un bureau. Illustre l'article « Comment faire adopter votre intranet par vos équipes : les 5 étapes à suivre » (Communication Interne, 2020) sur le blog Jamespot"
+  tags: [adoption, intranet, formation, équipe, écran, concentration, accompagnement, communication interne, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/communication-interne/rse-embarquer-collaborateurs/
+  added: 2026-09-19
+
+- slug: jeune-homme-ordinateur-bureau-sombre-violet
+  file: photos/jeune-homme-ordinateur-bureau-sombre-violet.jpg
+  caption: "Jeune homme à lunettes travaillant sur ordinateur dans un bureau sombre, forme violette en bas à gauche. Illustre l'article « 5 questions autour de la veille et des réseaux sociaux d’entreprise » (Réseau social d'entreprise, 2015) sur le blog Jamespot"
+  tags: [veille, "réseau social d'entreprise", concentration, soir, bureau, recherche, information, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/veille-reseaux-sociaux-entreprise/
+  added: 2026-09-19
+
+- slug: cubes-bois-tetes-engrenages-ampoule
+  file: photos/cubes-bois-tetes-engrenages-ampoule.jpg
+  caption: "Cubes en bois gravés de têtes à engrenages et d'une ampoule, main qui les aligne. Illustre l'article « 10 questions autour du Knowledge Management et des Réseaux Sociaux d’Entreprise » (Réseau social d'entreprise, 2014) sur le blog Jamespot"
+  tags: [knowledge management, connaissance, idée, ampoule, cubes, savoir, partage, gestion des connaissances, reseau social d entreprise, blog jamespot]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.6, 0.5]
+  status: approved
+  source: jamespot-blog
+  origin: https://jamespot.com/blog/reseau-social-entreprise/knowledge-management-rse/
   added: 2026-09-19

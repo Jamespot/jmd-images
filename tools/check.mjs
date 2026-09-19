@@ -8,7 +8,7 @@ import { parse } from 'yaml';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const FOLDERS = ['produit', 'illustrations', 'photos', 'logos', 'schemas'];
-const EXT = ['.png', '.webp', '.jpg', '.jpeg', '.svg'];
+const EXT = ['.png', '.jpg', '.jpeg', '.svg']; // pas de webp/avif : la bibliothèque sert aussi hors navigateur
 const KIND = ['capture', 'illustration', 'photo', 'logo', 'schema'];
 const FIT = ['cover', 'right', 'wide', 'inline'];
 const STATUS = ['approved', 'draft', 'retired'];
@@ -65,6 +65,7 @@ entries.forEach((e, i) => {
   if (e.focal !== undefined && !(Array.isArray(e.focal) && e.focal.length === 2 && e.focal.every(n => typeof n === 'number' && n >= 0 && n <= 1))) error(at, 'focal : [x, y] entre 0 et 1');
   if (typeof e.source !== 'string' || !e.source) error(at, 'source manquante (jamespot, unsplash:<id>, generated, ou l\'auteur)');
   else if (/^unsplash:/.test(e.source) && !e.credit) error(at, 'une image Unsplash porte un credit');
+  if (e.origin !== undefined && !(typeof e.origin === 'string' && /^https:\/\//.test(e.origin))) error(at, 'origin : une URL https (la page d\'où vient l\'image)');
   if (typeof e.added !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(e.added)) error(at, 'added : une date AAAA-MM-JJ');
   if (e.kind && e.file) {
     const expect = { capture: 'produit', illustration: 'illustrations', photo: 'photos', logo: 'logos', schema: 'schemas' }[e.kind];
