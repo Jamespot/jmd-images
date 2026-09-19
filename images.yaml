@@ -533,26 +533,6 @@
   source: jamespot
   added: 2026-09-19
 
-- slug: client-stokomani
-  file: logos/client-stokomani.png
-  caption: "Logo Stokomani, enseigne de déstockage, des marques, des prix, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, retail, distribution, enseigne, magasins]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
-- slug: client-wurth
-  file: logos/client-wurth.png
-  caption: "Logo Würth, distributeur de fournitures et outillage pour les professionnels, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, industrie, distribution, btp, privé, international]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
 - slug: client-assurance-maladie
   file: logos/client-assurance-maladie.png
   caption: "Logo l'Assurance Maladie, la Sécurité sociale, branche maladie, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
@@ -617,16 +597,6 @@
   file: logos/client-departement-seine-saint-denis.png
   caption: "Logo Seine-Saint-Denis, le département, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
   tags: [client jamespot, client, référence, logo, mur de logos, département, collectivité, territoriale, service public, île-de-france]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
-- slug: client-lignes-d-azur
-  file: logos/client-lignes-d-azur.png
-  caption: "Logo Lignes d'Azur, le réseau de transports de la métropole Nice Côte d'Azur, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, transport, mobilité, nice, métropole, service public]
   kind: logo
   fit: [inline]
   status: approved
@@ -743,16 +713,6 @@
   source: jamespot
   added: 2026-09-19
 
-- slug: client-est-ensemble
-  file: logos/client-est-ensemble.png
-  caption: "Logo Est Ensemble, établissement public territorial du Grand Paris, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, collectivité, intercommunalité, grand paris, territoire, service public]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
 - slug: client-cluster-montagne
   file: logos/client-cluster-montagne.jpg
   caption: "Logo Cluster Montagne, Mountain Development France, la filière de l'aménagement de la montagne, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
@@ -813,40 +773,10 @@
   source: jamespot
   added: 2026-09-19
 
-- slug: client-saint-maclou
-  file: logos/client-saint-maclou.png
-  caption: "Logo Saint Maclou, enseigne de décoration et revêtements de sol, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, retail, décoration, enseigne, magasins, privé]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
 - slug: client-babyliss
   file: logos/client-babyliss.png
   caption: "Logo BaByliss, marque d'appareils de coiffure et de beauté, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
   tags: [client jamespot, client, référence, logo, mur de logos, beauté, marque, grand public, industrie, privé]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
-- slug: client-la-foir-fouille
-  file: logos/client-la-foir-fouille.png
-  caption: "Logo La Foir'Fouille, enseigne de discount pour la maison, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, retail, discount, enseigne, magasins, maison]
-  kind: logo
-  fit: [inline]
-  status: approved
-  source: jamespot
-  added: 2026-09-19
-
-- slug: client-dge
-  file: logos/client-dge.png
-  caption: "Logo DGE, Direction générale des entreprises, ministère de l'Économie, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
-  tags: [client jamespot, client, référence, logo, mur de logos, ministère, état, entreprises, économie, administration centrale]
   kind: logo
   fit: [inline]
   status: approved
@@ -2952,17 +2882,6 @@
   origin: https://jamespot.com/blog/intranet-entreprise/intranet-hospitalier-piliers-collaboratif/
   added: 2026-09-19
 
-- slug: podcast-leader-advocacy-portraits
-  file: illustrations/podcast-leader-advocacy-portraits.jpg
-  caption: "Visuel du podcast Leader Advocacy en noir et néon, deux portraits d'hommes et un micro. Illustre l'article « Souveraineté numérique et leadership : Le rôle des dirigeants dans un monde digital » (Sécurité & Souveraineté, 2024) sur le blog Jamespot"
-  tags: [podcast, leader advocacy, leadership, souveraineté, alain garnier, néon, audio, securite souverainete, blog jamespot]
-  kind: illustration
-  fit: [cover, right, wide]
-  status: approved
-  source: jamespot-blog
-  origin: https://jamespot.com/blog/securite-souverainete/souverainete-numerique-dirigeants/
-  added: 2026-09-19
-
 - slug: romaric-pighetti-interview-ia-frontend
   file: illustrations/romaric-pighetti-interview-ia-frontend.jpg
   caption: "Romaric Pighetti à côté d'un visuel IA, encart Une interview de Romaric Pighetti Développeur Frontend chez Jamespot. Illustre l'article « [Interview] L’intégration de l’IA au coeur de Jamespot avec Romaric Pighetti, développeur Frontend » (IA & Tendances digitales, 2024) sur le blog Jamespot"
@@ -3418,3 +3337,4 @@
   source: jamespot-blog
   origin: https://jamespot.com/blog/reseau-social-entreprise/knowledge-management-rse/
   added: 2026-09-19
+
