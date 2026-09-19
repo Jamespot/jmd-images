@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jmd-images</title>
+<meta name="description" content="La bibliothèque d'images Jamespot pour JMD : chaque image, sa légende, ses tags, son slug.">
+<style>
+  :root { --bg: #FBFAFE; --ink: #262166; --muted: #6B6790; --line: #E0DCF0; --accent: #7A70F2; --card: #fff; --chip: #ECE8F8; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #17152B; --ink: #ECEAF8; --muted: #A5A1C8; --line: #33306A; --accent: #9C94FF; --card: #211E3A; --chip: #2A2748; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; padding: 24px 16px 48px; }
+  header { max-width: 1200px; margin: 0 auto 20px; display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: baseline; }
+  h1 { font-size: 22px; margin: 0; }
+  h1 small { color: var(--muted); font-weight: 400; font-size: 14px; margin-left: 8px; }
+  .how { max-width: 1200px; margin: 0 auto 20px; color: var(--muted); font-size: 14px; }
+  .how code { background: var(--chip); padding: 1px 6px; border-radius: 4px; color: var(--ink); }
+  .bar { max-width: 1200px; margin: 0 auto 20px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  input[type=search] { flex: 1 1 280px; font: inherit; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); }
+  select { font: inherit; padding: 9px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); }
+  .count { color: var(--muted); font-size: 14px; }
+  main { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; }
+  figure { margin: 0; background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+  .img { aspect-ratio: 16 / 10; background: repeating-conic-gradient(var(--chip) 0 25%, var(--card) 0 50%) 0 0 / 20px 20px; display: grid; place-items: center; }
+  .img img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  figure.logo .img img { padding: 18px; }
+  figcaption { padding: 10px 12px 12px; display: grid; gap: 6px; font-size: 13px; }
+  .slug { font-family: ui-monospace, Menlo, monospace; font-size: 12px; color: var(--accent); cursor: pointer; word-break: break-all; }
+  .slug:hover { text-decoration: underline; }
+  .cap { color: var(--ink); }
+  .tags { color: var(--muted); font-size: 12px; }
+  .kind { display: inline-block; background: var(--chip); border-radius: 999px; padding: 1px 8px; font-size: 11px; margin-right: 6px; }
+  .empty { color: var(--muted); grid-column: 1 / -1; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>jmd-images <small id="total"></small></h1>
+  <span class="how"><a href="https://github.com/Jamespot/jmd-images">Le dépôt</a> · <a href="images.yaml">images.yaml</a> · <a href="https://github.com/Jamespot/jmd-images/blob/main/LICENSE.md">licence</a></span>
+</header>
+<p class="how">Dans un <code>.jmd</code>, une image se nomme par son slug : <code>![légende](img:jamespot/le-slug){.right}</code>. Cliquer un slug le copie.</p>
+<div class="bar">
+  <input id="q" type="search" placeholder="Chercher dans les légendes et les tags : kanban, hôpital, drapeau européen, alain garnier…" autofocus>
+  <select id="kind"><option value="">Tous les types</option><option value="capture">Captures produit</option><option value="illustration">Illustrations</option><option value="photo">Photos</option><option value="logo">Logos</option><option value="schema">Schémas</option></select>
+  <span class="count" id="count"></span>
+</div>
+<main id="grid"><p class="empty">Chargement de l'index…</p></main>
+<script>
+// Un parseur YAML minimal pour le seul format qu'images.yaml utilise : une liste d'objets plats, valeurs scalaires ou listes inline.
+function parseIndex(text) {
+  const out = []; let cur = null;
+  for (const raw of text.split('\n')) {
+    const line = raw.replace(/\s+$/, '');
+    if (!line || line.startsWith('#') || line === '[]') continue;
+    let m = /^- (\w+): (.*)$/.exec(line);
+    if (m) { cur = {}; out.push(cur); set(cur, m[1], m[2]); continue; }
+    m = /^  (\w+): (.*)$/.exec(line);
+    if (m && cur) set(cur, m[1], m[2]);
+  }
+  return out;
+  function set(o, k, v) {
+    v = v.trim();
+    if (v.startsWith('[')) o[k] = v.slice(1, -1).split(',').map(s => unq(s.trim())).filter(Boolean);
+    else o[k] = unq(v);
+  }
+  function unq(s) { return /^".*"$/.test(s) ? s.slice(1, -1).replace(/\\"/g, '"') : s; }
+}
+const grid = document.getElementById('grid'), q = document.getElementById('q'), kind = document.getElementById('kind'), count = document.getElementById('count');
+let all = [];
+function norm(s) { return (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+function render() {
+  const words = norm(q.value).split(/\s+/).filter(Boolean), k = kind.value;
+  const hits = all.filter(e => (e.status || 'approved') !== 'retired' && (!k || e.kind === k) && words.every(w => e._hay.includes(w)));
+  count.textContent = hits.length + ' image' + (hits.length > 1 ? 's' : '');
+  grid.innerHTML = hits.length ? hits.map(e => `
+    <figure class="${e.kind}">
+      <div class="img"><img loading="lazy" src="${e.file}" alt="${esc(e.caption)}"></div>
+      <figcaption>
+        <span class="slug" data-slug="${e.slug}" title="Copier">img:jamespot/${e.slug}</span>
+        <span class="cap"><span class="kind">${e.kind}</span>${esc(e.caption)}</span>
+        <span class="tags">${(e.tags || []).map(esc).join(' · ')}${e.origin ? ` · <a href="${e.origin}" target="_blank" rel="noopener">source</a>` : ''}</span>
+      </figcaption>
+    </figure>`).join('') : '<p class="empty">Rien pour cette recherche.</p>';
+}
+function esc(s) { return String(s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+grid.addEventListener('click', ev => { const s = ev.target.closest('.slug'); if (!s) return; navigator.clipboard?.writeText('img:jamespot/' + s.dataset.slug); s.textContent = 'copié'; setTimeout(() => s.textContent = 'img:jamespot/' + s.dataset.slug, 900); });
+q.addEventListener('input', render); kind.addEventListener('change', render);
+fetch('images.yaml').then(r => r.text()).then(t => {
+  all = parseIndex(t).map(e => ({ ...e, _hay: norm([e.slug, e.caption, ...(e.tags || []), e.kind].join(' ')) }));
+  document.getElementById('total').textContent = all.length + ' images';
+  render();
+}).catch(() => { grid.innerHTML = '<p class="empty">Impossible de lire images.yaml.</p>'; });
+</script>
+</body>
+</html>
