@@ -1,4 +1,864 @@
 # Bibliothèque d'images Jamespot pour JMD — l'index.
 # Une entrée par image, le contrat est dans README.md, l'ajout se fait par le skill add-images.
 # `npm run check` vérifie ce fichier et les dossiers.
-[]
+
+- slug: rezilience-groupes-gestion-crise
+  file: produit/rezilience-groupes-gestion-crise.jpg
+  caption: "Page des groupes de Jamespot ReZilience : la cellule de gestion de crise, la communication interne et externe et une équipe, chacune avec son illustration, menu latéral à gauche"
+  tags: [rezilience, gestion de crise, pra, pca, groupes, cellule de crise, si secours, espaces, navigation]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: rezilience-groupes-cartes
+  file: produit/rezilience-groupes-cartes.jpg
+  caption: "Deux cartes de groupes ReZilience avec pictogramme rouge : Gestion de crise pour organiser la cellule, Gestion des procédures pour fournir ressources et directives aux équipes"
+  tags: [rezilience, gestion de crise, procédures, groupes, cartes, organisation, cellule de crise]
+  kind: capture
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: messagerie-instantanee-fil-crise
+  file: produit/messagerie-instantanee-fil-crise.jpg
+  caption: "Messagerie instantanée de Jamespot : un fil de discussion horodaté entre deux personnes pendant un incident de sécurité, bulles vertes et grises, données de démonstration"
+  tags: [messagerie, chat, messenger, temps réel, gestion de crise, rezilience, incident, communication, horodatage]
+  kind: capture
+  fit: [right]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: visioconference-appel-video
+  file: produit/visioconference-appel-video.jpg
+  caption: "Visioconférence Jamespot : un appel vidéo à deux participants sur l'écran d'un ordinateur portable, une personne au clavier vue de dos, ambiance bureau"
+  tags: [visio, visioconférence, appel vidéo, réunion, distance, télétravail, coordination, rezilience, photo composée]
+  kind: capture
+  fit: [right, cover]
+  focal: [0.5, 0.45]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: jamespot-mail-boite-reception
+  file: produit/jamespot-mail-boite-reception.jpg
+  caption: "Jamespot Mail sur un ordinateur portable : la boîte de réception intégrée à la plateforme, une personne consulte ses messages, vue en plongée sur un bureau clair"
+  tags: [mail, email, messagerie, boîte de réception, jamespot mail, sogomail, intégration, poste de travail, photo composée]
+  kind: capture
+  fit: [right, cover]
+  focal: [0.6, 0.4]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: annuaire-contacts-fiches
+  file: produit/annuaire-contacts-fiches.jpg
+  caption: "Annuaire de Jamespot : six fiches avec photo, nom, société et fonction, filtres par pseudo, fonction, société, ville, pays, projets, écoles et compétences, index alphabétique"
+  tags: [annuaire, contacts, profils, trombinoscope, recherche, filtres, compétences, organisation, rezilience, personnes réelles]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: banque-documentaire-procedures
+  file: produit/banque-documentaire-procedures.jpg
+  caption: "Banque documentaire de Jamespot : arborescence de dossiers de gestion des procédures (analyse de l'incident, procédures d'urgence, gestion de crise, suivi et amélioration) et leurs dossiers dans la vue principale"
+  tags: [documents, drive, ged, banque documentaire, dossiers, procédures, gestion de crise, rezilience, partage de fichiers]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: kanban-tableau-crise
+  file: produit/kanban-tableau-crise.jpg
+  caption: "Tableau Kanban de Jamespot ReZilience : colonnes de tâches de communication interne de crise, cartes à faire, en cours et à valider, fond bleu nuit, barre latérale de la plateforme"
+  tags: [kanban, tableau, tâches, suivi, projet, gestion de crise, rezilience, actions, responsables, organisation]
+  kind: capture
+  fit: [right]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: main-courante-journal-crise
+  file: produit/main-courante-journal-crise.jpg
+  caption: "Main courante de Jamespot ReZilience : un formulaire tableau qui consigne qui a fait quoi, quand et pourquoi pendant la crise, une ligne d'événement horodatée, données de démonstration"
+  tags: [main courante, journal, traçabilité, formulaire, gestion de crise, rezilience, conformité, bilan, historique]
+  kind: capture
+  fit: [wide, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: wedoc-coedition-tableur
+  file: produit/wedoc-coedition-tableur.jpg
+  caption: "WeDoc, la coédition de Jamespot : un tableur de contacts clients à prévenir en cas de crise ouvert dans la plateforme ReZilience, barre d'outils bureautique, fil d'Ariane, données fictives"
+  tags: [wedoc, coédition, tableur, bureautique, collaboratif, document, temps réel, gestion de crise, rezilience, onlyoffice]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: administration-console-tuiles
+  file: produit/administration-console-tuiles.jpg
+  caption: "Console d'administration de Jamespot : huit tuiles pastel avec pictogramme, plateforme, utilisateurs, groupes, contenus, indicateurs, avancé, développeur, applications"
+  tags: [administration, admin, console, paramètres, autonomie, utilisateurs, droits, configuration, pictogrammes]
+  kind: capture
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: application-mobile-ecrans
+  file: produit/application-mobile-ecrans.jpg
+  caption: "Application mobile Jamespot : quatre smartphones en éventail montrant le fil d'actualité, une conversation, un groupe et le menu, fond blanc"
+  tags: [mobile, application, smartphone, ios, android, app, mobilité, nomade, écrans]
+  kind: capture
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: indicateurs-tableau-de-bord
+  file: produit/indicateurs-tableau-de-bord.jpg
+  caption: "Indicateurs de Jamespot : deux anneaux statistiques, 74 utilisateurs et 1206 publications, avec les commentaires, actions sociales et photos de profil sur la période"
+  tags: [indicateurs, statistiques, tableau de bord, kpi, analytics, mesure, adoption, engagement, graphique]
+  kind: capture
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: badges-app-store-google-play
+  file: logos/badges-app-store-google-play.png
+  caption: "Les deux badges de téléchargement côte à côte, Télécharger dans l'App Store et Disponible sur Google Play, noirs sur fond transparent"
+  tags: [app store, google play, badges, stores, mobile, téléchargement, ios, android]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: jamespot-interface-vue-epuree
+  file: illustrations/jamespot-interface-vue-epuree.png
+  caption: "Vue épurée et stylisée de l'interface Jamespot : un fil de publication avec avatars, zone de saisie et boutons, texte remplacé par des lignes grises, cadre à coins arrondis, pour une couverture"
+  tags: [interface, mockup, maquette, produit, couverture, "fil d'actualité", plateforme, wireframe, épuré]
+  kind: illustration
+  fit: [cover, right]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: salon-equipe-jamespot-stand
+  file: photos/salon-equipe-jamespot-stand.jpg
+  caption: "Deux femmes de l'équipe Jamespot en t-shirt bleu discutent avec une visiteuse sur un stand de salon, ambiance lumineuse et conviviale"
+  tags: [salon, événement, stand, équipe, rencontre, conversation, visiteurs, terrain, commercial]
+  kind: photo
+  fit: [cover, right]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot
+  file: logos/logo-jamespot.svg
+  caption: "Logo Jamespot 2024 horizontal : l'icône violette suivie du mot Jamespot en bleu nuit, pour fond clair"
+  tags: [jamespot, logo, marque, horizontal, couleur, fond clair, officiel, "2024"]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot-blanc
+  file: logos/logo-jamespot-blanc.svg
+  caption: "Logo Jamespot 2024 horizontal en blanc, icône et mot, pour fond sombre ou violet"
+  tags: [jamespot, logo, marque, horizontal, blanc, fond sombre, monochrome, officiel]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot-icone
+  file: logos/logo-jamespot-icone.svg
+  caption: "Icône Jamespot seule : la forme organique violette à quatre lobes entourée de quatre points bleu nuit, sans le mot"
+  tags: [jamespot, icône, symbole, favicon, pictogramme, couleur, marque, app]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot-icone-blanc
+  file: logos/logo-jamespot-icone-blanc.svg
+  caption: "Icône Jamespot seule en blanc, pour fond sombre ou violet"
+  tags: [jamespot, icône, symbole, blanc, fond sombre, monochrome, marque]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot-vertical
+  file: logos/logo-jamespot-vertical.svg
+  caption: "Logo Jamespot version secondaire, empilée : l'icône violette au-dessus du mot Jamespot en bleu nuit, pour les formats carrés"
+  tags: [jamespot, logo, vertical, empilé, secondaire, carré, couleur, marque]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-jamespot-vertical-blanc
+  file: logos/logo-jamespot-vertical-blanc.svg
+  caption: "Logo Jamespot version secondaire empilée en blanc, pour fond sombre ou violet"
+  tags: [jamespot, logo, vertical, empilé, blanc, fond sombre, marque]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-collabnext
+  file: logos/logo-collabnext.png
+  caption: "Logo CollabNext, l'alliance des éditeurs européens de logiciels collaboratifs dont Jamespot est membre, symbole bleu et mot noir, pour fond clair"
+  tags: [collabnext, alliance, éditeurs, europe, souveraineté, collaboratif, écosystème, partenaires]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logo-collabnext-blanc
+  file: logos/logo-collabnext-blanc.png
+  caption: "Logo CollabNext en blanc, pour fond sombre"
+  tags: [collabnext, alliance, éditeurs, europe, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: label-numerique-france-garanti
+  file: logos/label-numerique-france-garanti.png
+  caption: "Le label Numérique France Garanti : cachet rouge aux couleurs tricolores, obtenu par Jamespot, atteste d'une solution numérique française"
+  tags: [label, numérique france garanti, nfg, souveraineté, made in france, certification, confiance, français]
+  kind: logo
+  fit: [inline, right]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-alinto-blanc
+  file: logos/partenaire-alinto-blanc.png
+  caption: "Logo Alinto en blanc, éditeur français de messagerie et partenaire de Jamespot, pour fond sombre"
+  tags: [alinto, partenaire, messagerie, email, souveraineté, blanc, fond sombre, livre blanc]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-artimon-blanc
+  file: logos/partenaire-artimon-blanc.png
+  caption: "Logo Artimon en blanc, cabinet de conseil partenaire de Jamespot, pour fond sombre"
+  tags: [artimon, partenaire, conseil, blanc, fond sombre, livre blanc]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-clever-cloud-blanc
+  file: logos/partenaire-clever-cloud-blanc.png
+  caption: "Logo Clever Cloud en blanc, hébergeur cloud français partenaire de Jamespot, pour fond sombre"
+  tags: [clever cloud, partenaire, cloud, hébergement, paas, souveraineté, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-datakeen-blanc
+  file: logos/partenaire-datakeen-blanc.png
+  caption: "Logo Datakeen en blanc, éditeur français d'IA de traitement documentaire partenaire de Jamespot, pour fond sombre"
+  tags: [datakeen, partenaire, ia, intelligence artificielle, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-ens-paris-saclay-blanc
+  file: logos/partenaire-ens-paris-saclay-blanc.png
+  caption: "Logo de l'École normale supérieure Paris-Saclay en blanc, partenaire académique, pour fond sombre"
+  tags: [ens, paris-saclay, école, recherche, académique, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: logos-france-2030-relance-ue
+  file: logos/logos-france-2030-relance-ue.png
+  caption: "Trois cachets de financement public empilés : France 2030, France Relance et Financé par l'Union européenne, en couleur"
+  tags: [france 2030, france relance, union européenne, financement, subvention, état, europe, cachets]
+  kind: logo
+  fit: [inline, right]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-france-labs-datafari-blanc
+  file: logos/partenaire-france-labs-datafari-blanc.png
+  caption: "Logo France Labs Datafari Enterprise Search en blanc, moteur de recherche d'entreprise open source partenaire de Jamespot, pour fond sombre"
+  tags: [france labs, datafari, recherche, search, open source, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-glowbl-blanc
+  file: logos/partenaire-glowbl-blanc.png
+  caption: "Logo Glowbl en blanc, plateforme française de visioconférence et de classes virtuelles partenaire de Jamespot, pour fond sombre"
+  tags: [glowbl, visio, visioconférence, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-outscale-blanc
+  file: logos/partenaire-outscale-blanc.png
+  caption: "Logo Outscale en blanc, cloud souverain de Dassault Systèmes qualifié SecNumCloud, hébergeur partenaire de Jamespot, pour fond sombre"
+  tags: [outscale, cloud, secnumcloud, hds, hébergement, souveraineté, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-startinblox-blanc
+  file: logos/partenaire-startinblox-blanc.png
+  caption: "Logo Startin'blox en blanc, éditeur de solutions web décentralisées partenaire de Jamespot, pour fond sombre"
+  tags: [startinblox, partenaire, décentralisé, solid, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-wallix-blanc
+  file: logos/partenaire-wallix-blanc.png
+  caption: "Logo Wallix en blanc, éditeur français de cybersécurité et de gestion des accès à privilèges partenaire de Jamespot, pour fond sombre"
+  tags: [wallix, cybersécurité, sécurité, pam, accès, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: partenaire-xwiki-blanc
+  file: logos/partenaire-xwiki-blanc.png
+  caption: "Logo XWiki en blanc, éditeur français de wiki open source partenaire de Jamespot, pour fond sombre"
+  tags: [xwiki, wiki, open source, connaissance, partenaire, blanc, fond sombre]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: portrait-alain-garnier
+  file: photos/portrait-alain-garnier.jpg
+  caption: "Portrait d'Alain Garnier, cofondateur et CEO de Jamespot, lunettes, chemise noire, bras croisés, fond violet clair, cadrage vertical"
+  tags: [alain garnier, ceo, fondateur, dirigeant, portrait, photo officielle, intervenant, auteur]
+  kind: photo
+  fit: [right]
+  focal: [0.5, 0.3]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: equipe-jamespot-groupe-exterieur
+  file: photos/equipe-jamespot-groupe-exterieur.webp
+  caption: "L'équipe Jamespot au complet, bras levés, en t-shirts bleu marine devant des arbres, photo de groupe joyeuse en extérieur"
+  tags: [équipe, team, groupe, collaborateurs, culture, convivialité, extérieur, séminaire, humain]
+  kind: photo
+  fit: [cover, wide]
+  focal: [0.5, 0.45]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: carte-europe-implantations-jamespot
+  file: schemas/carte-europe-implantations-jamespot.svg
+  caption: "Carte de l'Europe en violet pâle avec quatre points nommés, Paris, Lyon, Oslo et Barcelone, les implantations de Jamespot et de ses partenaires"
+  tags: [carte, europe, implantations, paris, lyon, oslo, barcelone, international, géographie, bureaux]
+  kind: schema
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: galaxie-jamespot-offres
+  file: schemas/galaxie-jamespot-offres.png
+  caption: "La galaxie Jamespot : infographie de l'ensemble des offres, com interne, collaboration, mail, IA, IA intégrée et plateforme, sur fond violet et cartes blanches, en français"
+  tags: [galaxie, offres, catalogue, gamme, produits, écosystème, plateforme, "vue d'ensemble", infographie, français]
+  kind: schema
+  fit: [wide, cover]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: galaxie-jamespot-offres-en
+  file: schemas/galaxie-jamespot-offres-en.png
+  caption: "The Jamespot galaxy : the same infographic of every Jamespot offer, internal comms, collaboration, mail, AI, built-in AI and platform, in English"
+  tags: [galaxy, offers, catalogue, products, ecosystem, platform, overview, infographic, english, anglais]
+  kind: schema
+  fit: [wide, cover]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: infrastructure-souveraine-cartes-certifications
+  file: illustrations/infrastructure-souveraine-cartes-certifications.jpg
+  caption: "Cartes blanches sur fond clair listant les garanties d'hébergement de Jamespot : certifié ISO 27001, RGPD natif, infrastructure principale ISO 27001, infrastructure HDS et SecNumCloud, sauvegarde et résilience"
+  tags: [hébergement, iso 27001, rgpd, secnumcloud, hds, sécurité, souveraineté, certifications, infrastructure, garanties, livre blanc]
+  kind: illustration
+  fit: [right, wide]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: maquette-plateforme-fil-et-statistiques
+  file: illustrations/maquette-plateforme-fil-et-statistiques.jpg
+  caption: "Maquette de la plateforme Jamespot sur fond violet : une publication dans le fil avec avatar et un encart Statistiques de vos pages en histogramme, cadre de navigateur arrondi"
+  tags: [maquette, mockup, plateforme, "fil d'actualité", statistiques, pages, intranet, communication interne, violet, livre blanc]
+  kind: illustration
+  fit: [right, cover]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: maquette-plateforme-publication-verticale
+  file: illustrations/maquette-plateforme-publication-verticale.jpg
+  caption: "Maquette verticale de la plateforme Jamespot sur dégradé violet : une publication longue avec commentaires et trois raccourcis d'applications flottants à gauche, checklist, paie et sondage"
+  tags: [maquette, mockup, plateforme, publication, commentaires, applications, intranet, vertical, violet, livre blanc]
+  kind: illustration
+  fit: [right]
+  focal: [0.5, 0.4]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: semaine-souverainete-numerique-2026-banniere
+  file: illustrations/semaine-souverainete-numerique-2026-banniere.webp
+  caption: "Bannière large de la Semaine de la souveraineté numérique, du 5 au 9 octobre 2026, cinq jours pour reprendre le contrôle, ateliers, tables rondes, webinaires, plénière, violet et dégradés pastel"
+  tags: [semaine de la souveraineté numérique, ssn, événement, octobre 2026, bannière, souveraineté, webinaires, ateliers, communication]
+  kind: illustration
+  fit: [wide, cover]
+  focal: [0.5, 0.5]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: semaine-souverainete-numerique-2026-visuel
+  file: illustrations/semaine-souverainete-numerique-2026-visuel.webp
+  caption: "Visuel carré de la Semaine de la souveraineté numérique organisée par Jamespot, du 5 au 9 octobre 2026, cinq jours pour reprendre le contrôle, blocs violet, sable et bleu"
+  tags: [semaine de la souveraineté numérique, ssn, événement, octobre 2026, carré, réseaux sociaux, souveraineté, affiche]
+  kind: illustration
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: semaine-souverainete-numerique-2026-je-participe
+  file: illustrations/semaine-souverainete-numerique-2026-je-participe.webp
+  caption: "Visuel carré Je participe à la Semaine de la souveraineté numérique, du 5 au 9 octobre 2026, à partager par les participants sur LinkedIn, violet et blocs pastel"
+  tags: [semaine de la souveraineté numérique, ssn, je participe, linkedin, réseaux sociaux, événement, octobre 2026, participant]
+  kind: illustration
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: semaine-souverainete-numerique-2026-je-participe-2
+  file: illustrations/semaine-souverainete-numerique-2026-je-participe-2.webp
+  caption: "Seconde version du visuel Je participe à la Semaine de la souveraineté numérique, ateliers, tables rondes, talk show, webinaires et plénière, bandeau violet à droite"
+  tags: [semaine de la souveraineté numérique, ssn, je participe, linkedin, réseaux sociaux, événement, octobre 2026, programme]
+  kind: illustration
+  fit: [right, inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-profil-plus
+  file: logos/client-profil-plus.png
+  caption: "Logo Profil Plus, réseau de centres d'entretien automobile et pneumatiques, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, automobile, réseau, franchise, retail]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-ilevia
+  file: logos/client-ilevia.png
+  caption: "Logo Ilévia, les transports de la Métropole européenne de Lille, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, transport, mobilité, métropole, lille, service public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-bnp-paribas-real-estate
+  file: logos/client-bnp-paribas-real-estate.png
+  caption: "Logo BNP Paribas Real Estate, immobilier d'entreprise du groupe BNP Paribas, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, immobilier, banque, grand compte, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-stokomani
+  file: logos/client-stokomani.png
+  caption: "Logo Stokomani, enseigne de déstockage, des marques, des prix, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, retail, distribution, enseigne, magasins]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-wurth
+  file: logos/client-wurth.png
+  caption: "Logo Würth, distributeur de fournitures et outillage pour les professionnels, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, industrie, distribution, btp, privé, international]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-assurance-maladie
+  file: logos/client-assurance-maladie.png
+  caption: "Logo l'Assurance Maladie, la Sécurité sociale, branche maladie, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, santé, sécurité sociale, service public, assurance, état]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-albingia
+  file: logos/client-albingia.png
+  caption: "Logo Albingia, compagnie d'assurance des risques d'entreprise, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, assurance, privé, risques, entreprise]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-groupe-ozitem
+  file: logos/client-groupe-ozitem.png
+  caption: "Logo Groupe Ozitem, entreprise de services numériques, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, esn, numérique, services, informatique, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-gifas
+  file: logos/client-gifas.png
+  caption: "Logo GIFAS, Groupement des industries françaises aéronautiques et spatiales, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, aéronautique, spatial, industrie, fédération, syndicat professionnel]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-anct
+  file: logos/client-anct.png
+  caption: "Logo ANCT, Agence nationale de la cohésion des territoires, République française, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, agence, état, territoires, service public, république française, collectivités]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-departement-eure-et-loir
+  file: logos/client-departement-eure-et-loir.png
+  caption: "Logo Eure-et-Loir, le département, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, département, collectivité, territoriale, service public, centre-val de loire]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-departement-seine-saint-denis
+  file: logos/client-departement-seine-saint-denis.png
+  caption: "Logo Seine-Saint-Denis, le département, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, département, collectivité, territoriale, service public, île-de-france]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-lignes-d-azur
+  file: logos/client-lignes-d-azur.png
+  caption: "Logo Lignes d'Azur, le réseau de transports de la métropole Nice Côte d'Azur, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, transport, mobilité, nice, métropole, service public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-la-france-mutualiste
+  file: logos/client-la-france-mutualiste.jpg
+  caption: "Logo La France Mutualiste, mutuelle d'épargne et de retraite, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, mutuelle, assurance, épargne, retraite, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-gasel
+  file: logos/client-gasel.jpg
+  caption: "Logo Gasel, énergies associées, groupement d'entreprises de services énergétiques, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, énergie, groupement, services, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-unapei
+  file: logos/client-unapei.png
+  caption: "Logo Unapei, fédération d'associations de personnes handicapées et de leurs familles, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, association, handicap, fédération, médico-social, ess]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-ucanss
+  file: logos/client-ucanss.png
+  caption: "Logo Ucanss, Union des caisses nationales de sécurité sociale, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, sécurité sociale, union, caisses, service public, rh]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-direction-du-budget
+  file: logos/client-direction-du-budget.png
+  caption: "Logo Direction du Budget, ministère de l'Économie et des Finances, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, ministère, état, finances, budget, administration centrale]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-inrae
+  file: logos/client-inrae.png
+  caption: "Logo INRAE, Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, recherche, agriculture, environnement, institut, public, science]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-twisto
+  file: logos/client-twisto.png
+  caption: "Logo Twisto, le réseau de transports de Caen la mer, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, transport, mobilité, caen, service public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-bionops
+  file: logos/client-bionops.png
+  caption: "Logo Bionops, laboratoire de compléments alimentaires, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, laboratoire, santé, nutrition, privé, pme]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-e-sante-centre-val-de-loire
+  file: logos/client-e-sante-centre-val-de-loire.png
+  caption: "Logo e-Santé Centre-Val de Loire, le groupement régional d'appui au développement de la e-santé, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, e-santé, santé, grades, région, centre-val de loire, public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-anaik
+  file: logos/client-anaik.png
+  caption: "Logo Anaïk, agence de creative customer experience, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, agence, expérience client, marketing, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-carius
+  file: logos/client-carius.png
+  caption: "Logo Carius, entreprise de mobilité et de logistique, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, mobilité, logistique, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-est-ensemble
+  file: logos/client-est-ensemble.png
+  caption: "Logo Est Ensemble, établissement public territorial du Grand Paris, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, collectivité, intercommunalité, grand paris, territoire, service public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-cluster-montagne
+  file: logos/client-cluster-montagne.jpg
+  caption: "Logo Cluster Montagne, Mountain Development France, la filière de l'aménagement de la montagne, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, cluster, montagne, filière, association, tourisme]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-alliss
+  file: logos/client-alliss.png
+  caption: "Logo Alliss, Alliance sciences sociétés, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, association, recherche, sciences, société civile]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-fonjep
+  file: logos/client-fonjep.png
+  caption: "Logo Fonjep, Fonds de coopération de la jeunesse et de l'éducation populaire, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, association, jeunesse, éducation populaire, fonds, public]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-afcdp
+  file: logos/client-afcdp.png
+  caption: "Logo AFCDP, Association française des correspondants à la protection des données, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, association, rgpd, dpo, données personnelles, conformité]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-cerema
+  file: logos/client-cerema.png
+  caption: "Logo Cerema, établissement public d'expertise sur les territoires, la mobilité et les risques, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, établissement public, expertise, territoires, mobilité, risques, ingénierie]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-lpa-cgr-avocats
+  file: logos/client-lpa-cgr-avocats.png
+  caption: "Logo LPA-CGR avocats, cabinet d'avocats d'affaires, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, avocats, juridique, cabinet, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-saint-maclou
+  file: logos/client-saint-maclou.png
+  caption: "Logo Saint Maclou, enseigne de décoration et revêtements de sol, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, retail, décoration, enseigne, magasins, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-babyliss
+  file: logos/client-babyliss.png
+  caption: "Logo BaByliss, marque d'appareils de coiffure et de beauté, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, beauté, marque, grand public, industrie, privé]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-la-foir-fouille
+  file: logos/client-la-foir-fouille.png
+  caption: "Logo La Foir'Fouille, enseigne de discount pour la maison, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, retail, discount, enseigne, magasins, maison]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-dge
+  file: logos/client-dge.png
+  caption: "Logo DGE, Direction générale des entreprises, ministère de l'Économie, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, ministère, état, entreprises, économie, administration centrale]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
+
+- slug: client-apec
+  file: logos/client-apec.jpg
+  caption: "Logo Apec, Association pour l'emploi des cadres, client Jamespot, extrait du mur de références du deck commercial 2026, basse résolution"
+  tags: [client jamespot, client, référence, logo, mur de logos, emploi, cadres, association, rh, recrutement]
+  kind: logo
+  fit: [inline]
+  status: approved
+  source: jamespot
+  added: 2026-09-19
