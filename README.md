@@ -82,8 +82,6 @@ npm run check        # l'index, les fichiers, les tailles, les orphelins, l'inbo
 
 La CI lance la même commande sur chaque push et chaque PR.
 
-## Licence — proposition à valider
+## Licence
 
-Les images de ce repo sont la propriété de Jamespot. Leur usage est libre dans une présentation ou un document produit avec JMD, y compris par des tiers. Toute autre redistribution, et toute utilisation qui laisserait croire à un partenariat ou une approbation de Jamespot, demande un accord écrit. Les photos issues d'Unsplash restent sous la licence Unsplash et portent leur crédit.
-
-*Ce paragraphe est une proposition. Il devient la licence du repo quand Alain le valide.*
+Deux licences, dans [LICENSE.md](LICENSE.md) : le code et le format sont sous **MIT**, à copier pour sa propre bibliothèque ; les images sont sous la **Jamespot Image Usage License**, libres dans tout document produit avec JMD, pas redistribuables telles quelles. Les logos restent des marques, les photos Unsplash gardent leur crédit. Contact : info@jamespot.com.
