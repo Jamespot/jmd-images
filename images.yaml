@@ -3338,3 +3338,51 @@
   origin: https://jamespot.com/blog/reseau-social-entreprise/knowledge-management-rse/
   added: 2026-09-19
 
+
+- slug: usine-techniciens-casques-gilets
+  file: photos/usine-techniciens-casques-gilets.jpg
+  caption: "Deux techniciens en casque blanc et gilet jaune dans une usine, l'un inspecte une machine, l'autre tient un porte-documents, bras robotisé au fond"
+  tags: [industrie, atelier, terrain, ouvriers, production, sécurité, collaborateurs terrain, usine]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.55, 0.4]
+  status: approved
+  source: jamespot-site
+  origin: https://jamespot.com/wp-content/uploads/2025/06/industrie.png
+  added: 2026-11-10
+
+- slug: atelier-ouvrier-tablette
+  file: photos/atelier-ouvrier-tablette.jpg
+  caption: "Ouvrier aux cheveux blancs en salopette et gants consultant une tablette dans un atelier de production"
+  tags: [usine, industrie, terrain, collaborateurs terrain, tablette, communication interne, sans poste fixe, mobile]
+  kind: photo
+  fit: [cover, right, wide]
+  focal: [0.7, 0.4]
+  status: approved
+  source: jamespot-site
+  origin: https://jamespot.com/wp-content/uploads/2026/10/communication-interne-equipes-terrain-tablette.jpg-scaled.jpg
+  added: 2026-11-10
+
+- slug: terrain-deux-collaborateurs-smartphone
+  file: photos/terrain-deux-collaborateurs-smartphone.jpg
+  caption: "Deux collaborateurs en casque de chantier et gilet fluorescent consultent un smartphone en extérieur, l'un tient un talkie-walkie, éolienne au loin"
+  tags: [chantier, terrain, collaborateurs terrain, mobile, application mobile, sans poste fixe, btp, énergie]
+  kind: photo
+  fit: [right, cover]
+  focal: [0.5, 0.35]
+  status: approved
+  source: jamespot-site
+  origin: https://jamespot.com/wp-content/uploads/2024/10/Collaborateurs-terrain-usine-smartphone.jpg
+  added: 2026-11-10
+
+- slug: tv-display-ecran-mural
+  file: produit/tv-display-ecran-mural.jpg
+  caption: "Écran mural affichant des publications Jamespot avec l'application TV Display, dans une salle aux murs à motifs de feuilles"
+  tags: [tv display, affichage dynamique, écran, salle de pause, collaborateurs terrain, communication interne, produit]
+  kind: capture
+  fit: [cover, right, wide]
+  focal: [0.3, 0.4]
+  status: approved
+  source: jamespot-site
+  origin: https://jamespot.com/wp-content/uploads/2024/02/TV-Display-1-scaled-1.jpg
+  added: 2026-11-10
