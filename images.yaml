@@ -3386,3 +3386,14 @@
   source: jamespot-site
   origin: https://jamespot.com/wp-content/uploads/2024/02/TV-Display-1-scaled-1.jpg
   added: 2026-11-10
+
+- slug: application-enquete-modeles
+  file: produit/application-enquete-modeles.jpg
+  caption: "Application Enquête de Jamespot : modèles d'enquête prêts à l'emploi, bouton Créer une enquête et une enquête en cours « L'IA & vous »"
+  tags: [enquête, sondage, questionnaire, écoute, collaborateurs, satisfaction, modèles, produit]
+  kind: capture
+  fit: [right, wide]
+  status: approved
+  source: jamespot-site
+  origin: https://jamespot.com/wp-content/uploads/2024/10/Application-Enquête-Jamespot-1.jpg
+  added: 2026-11-10
